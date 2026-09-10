@@ -1,0 +1,55 @@
+# 118. Pascal's Triangle
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Easy |
+| Question ID | 118 |
+| Slug | `pascals-triangle` |
+| Topics | Array, Dynamic Programming |
+| Total submissions | 1 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/pascals-triangle/ |
+
+---
+
+## Problem
+
+Given an integer `numRows`, return the first numRows of **Pascal's triangle**.
+
+In **Pascal's triangle**, each number is the sum of the two numbers directly above it as shown:
+
+ 
+
+Example 1:**
+
+**Input:** numRows = 5
+**Output:** [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+Example 2:**
+
+**Input:** numRows = 1
+**Output:** [[1]]
+
+ 
+
+**Constraints:**
+
+	- `1 <= numRows <= 30`
+
+---
+
+## Sample Test Case
+
+```text
+5
+```
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+

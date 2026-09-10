@@ -1,0 +1,70 @@
+# 402. Remove K Digits
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Medium |
+| Question ID | 402 |
+| Slug | `remove-k-digits` |
+| Topics | String, Stack, Greedy, Monotonic Stack |
+| Total submissions | 4 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/remove-k-digits/ |
+
+---
+
+## Problem
+
+Given string num representing a non-negative integer `num`, and an integer `k`, return *the smallest possible integer after removing* `k` *digits from* `num`.
+
+ 
+
+Example 1:**
+
+**Input:** num = "1432219", k = 3
+**Output:** "1219"
+**Explanation:** Remove the three digits 4, 3, and 2 to form the new number 1219 which is the smallest.
+
+Example 2:**
+
+**Input:** num = "10200", k = 1
+**Output:** "200"
+**Explanation:** Remove the leading 1 and the number is 200. Note that the output must not contain leading zeroes.
+
+Example 3:**
+
+**Input:** num = "10", k = 2
+**Output:** "0"
+**Explanation:** Remove all the digits from the number and it is left with nothing which is 0.
+
+ 
+
+**Constraints:**
+
+	- `1 <= k <= num.length <= 10^5`
+
+	- `num` consists of only digits.
+
+	- `num` does not have any leading zeros except for the zero itself.
+
+---
+
+## Sample Test Case
+
+```text
+"1432219"
+3
+```
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [11 — C++](./submissions/003-11.md)
+4. [11 — C++](./submissions/004-11.md)
+

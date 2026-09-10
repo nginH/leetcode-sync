@@ -1,0 +1,84 @@
+# 23. Merge k Sorted Lists
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Hard |
+| Question ID | 23 |
+| Slug | `merge-k-sorted-lists` |
+| Topics | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort |
+| Total submissions | 6 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/merge-k-sorted-lists/ |
+
+---
+
+## Problem
+
+You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+
+*Merge all the linked-lists into one sorted linked-list and return it.*
+
+ 
+
+Example 1:**
+
+**Input:** lists = [[1,4,5],[1,3,4],[2,6]]
+**Output:** [1,1,2,3,4,4,5,6]
+**Explanation:** The linked-lists are:
+[
+  1->4->5,
+  1->3->4,
+  2->6
+]
+merging them into one sorted linked list:
+1->1->2->3->4->4->5->6
+
+Example 2:**
+
+**Input:** lists = []
+**Output:** []
+
+Example 3:**
+
+**Input:** lists = [[]]
+**Output:** []
+
+ 
+
+**Constraints:**
+
+	- `k == lists.length`
+
+	- `0 <= k <= 10^4`
+
+	- `0 <= lists[i].length <= 500`
+
+	- `-10^4 <= lists[i][j] <= 10^4`
+
+	- `lists[i]` is sorted in **ascending order**.
+
+	- The sum of `lists[i].length` will not exceed `10^4`.
+
+---
+
+## Sample Test Case
+
+```text
+[[1,4,5],[1,3,4],[2,6]]
+```
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [10 — C++](./submissions/004-10.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [10 — C++](./submissions/006-10.md)
+

@@ -1,0 +1,66 @@
+# 198. House Robber
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Medium |
+| Question ID | 198 |
+| Slug | `house-robber` |
+| Topics | Array, Dynamic Programming |
+| Total submissions | 5 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/house-robber/ |
+
+---
+
+## Problem
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array `nums` representing the amount of money of each house, return *the maximum amount of money you can rob tonight **without alerting the police***.
+
+ 
+
+Example 1:**
+
+**Input:** nums = [1,2,3,1]
+**Output:** 4
+**Explanation:** Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total amount you can rob = 1 + 3 = 4.
+
+Example 2:**
+
+**Input:** nums = [2,7,9,3,1]
+**Output:** 12
+**Explanation:** Rob house 1 (money = 2), rob house 3 (money = 9) and rob house 5 (money = 1).
+Total amount you can rob = 2 + 9 + 1 = 12.
+
+ 
+
+**Constraints:**
+
+	- `1 <= nums.length <= 100`
+
+	- `0 <= nums[i] <= 400`
+
+---
+
+## Sample Test Case
+
+```text
+[1,2,3,1]
+```
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [14 — C++](./submissions/004-14.md)
+5. [11 — C++](./submissions/005-11.md)
+

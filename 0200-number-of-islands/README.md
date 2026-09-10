@@ -1,0 +1,76 @@
+# 200. Number of Islands
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Medium |
+| Question ID | 200 |
+| Slug | `number-of-islands` |
+| Topics | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| Total submissions | 5 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/number-of-islands/ |
+
+---
+
+## Problem
+
+Given an `m x n` 2D binary grid `grid` which represents a map of `'1'`s (land) and `'0'`s (water), return *the number of islands*.
+
+An **island** is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+ 
+
+Example 1:**
+
+**Input:** grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+**Output:** 1
+
+Example 2:**
+
+**Input:** grid = [
+  ["1","1","0","0","0"],
+  ["1","1","0","0","0"],
+  ["0","0","1","0","0"],
+  ["0","0","0","1","1"]
+]
+**Output:** 3
+
+ 
+
+**Constraints:**
+
+	- `m == grid.length`
+
+	- `n == grid[i].length`
+
+	- `1 <= m, n <= 300`
+
+	- `grid[i][j]` is `'0'` or `'1'`.
+
+---
+
+## Sample Test Case
+
+```text
+[["1","1","1","1","0"],["1","1","0","1","0"],["1","1","0","0","0"],["0","0","0","0","0"]]
+```
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [11 — C++](./submissions/004-11.md)
+5. [10 — C++](./submissions/005-10.md)
+

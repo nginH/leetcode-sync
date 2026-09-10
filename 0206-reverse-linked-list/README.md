@@ -1,0 +1,68 @@
+# 206. Reverse Linked List
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Easy |
+| Question ID | 206 |
+| Slug | `reverse-linked-list` |
+| Topics | Linked List, Recursion |
+| Total submissions | 4 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/reverse-linked-list/ |
+
+---
+
+## Problem
+
+Given the `head` of a singly linked list, reverse the list, and return *the reversed list*.
+
+ 
+
+Example 1:**
+
+**Input:** head = [1,2,3,4,5]
+**Output:** [5,4,3,2,1]
+
+Example 2:**
+
+**Input:** head = [1,2]
+**Output:** [2,1]
+
+Example 3:**
+
+**Input:** head = []
+**Output:** []
+
+ 
+
+**Constraints:**
+
+	- The number of nodes in the list is the range `[0, 5000]`.
+
+	- `-5000 <= Node.val <= 5000`
+
+ 
+
+**Follow up:** A linked list can be reversed either iteratively or recursively. Could you implement both?
+
+---
+
+## Sample Test Case
+
+```text
+[1,2,3,4,5]
+```
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [10 — C++](./submissions/004-10.md)
+

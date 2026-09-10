@@ -1,0 +1,75 @@
+# 567. Permutation in String
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Difficulty | Medium |
+| Question ID | 567 |
+| Slug | `permutation-in-string` |
+| Topics | Hash Table, Two Pointers, String, Sliding Window |
+| Total submissions | 7 |
+| Accepted submissions | 0 |
+| LeetCode | https://leetcode.com/problems/permutation-in-string/ |
+
+---
+
+## Problem
+
+Given two strings `s1` and `s2`, return `true` if `s2` contains a permutation of `s1`, or `false` otherwise.
+
+In other words, return `true` if one of `s1`'s permutations is the substring of `s2`.
+
+ 
+
+Example 1:**
+
+**Input:** s1 = "ab", s2 = "eidbaooo"
+**Output:** true
+**Explanation:** s2 contains one permutation of s1 ("ba").
+
+Example 2:**
+
+**Input:** s1 = "ab", s2 = "eidboaoo"
+**Output:** false
+
+ 
+
+**Constraints:**
+
+	- `1 <= s1.length, s2.length <= 10^4`
+
+	- `s1` and `s2` consist of lowercase English letters.
+
+---
+
+## Sample Test Case
+
+```text
+"ab"
+"eidbaooo"
+```
+
+## Hints
+
+1. Obviously, brute force will result in TLE. Think of something else.
+2. How will you check whether one string is a permutation of another string?
+3. One way is to sort the string and then compare. But, Is there a better way?
+4. If one string is a permutation of another string then they must have one common metric. What is that?
+5. Both strings must have same character frequencies, if  one is permutation of another. Which data structure should be used to store frequencies?
+6. What about hash table?  An array of size 26?
+
+---
+
+## Submission History
+
+All actual submitted solutions are stored separately in the `submissions/` directory.
+
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [20 — C++](./submissions/004-20.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [10 — C++](./submissions/006-10.md)
+7. [15 — C++](./submissions/007-15.md)
+

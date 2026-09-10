@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nginH/leetcode-sync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nginH/leetcode-sync/issues"
+  },
+  "homepage": "https://github.com/nginH/leetcode-sync#readme"
+}
