@@ -8,7 +8,7 @@
 | Question ID | 129 |
 | Slug | `sum-root-to-leaf-numbers` |
 | Topics | Tree, Depth-First Search, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/sum-root-to-leaf-numbers/ |
 
@@ -78,4 +78,7 @@ Therefore, sum = 495 + 491 + 40 = `1026`.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
 

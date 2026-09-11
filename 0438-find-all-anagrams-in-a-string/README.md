@@ -8,7 +8,7 @@
 | Question ID | 438 |
 | Slug | `find-all-anagrams-in-a-string` |
 | Topics | Hash Table, String, Sliding Window |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-all-anagrams-in-a-string/ |
 
@@ -69,4 +69,8 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [14 — C++](./submissions/003-14.md)
+4. [14 — C++](./submissions/004-14.md)
 

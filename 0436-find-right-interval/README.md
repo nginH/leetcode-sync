@@ -8,7 +8,7 @@
 | Question ID | 436 |
 | Slug | `find-right-interval` |
 | Topics | Array, Binary Search, Sorting |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-right-interval/ |
 
@@ -79,4 +79,7 @@ The right interval for [2,3] is [3,4] since start_2 = 3 is the smallest start th
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [11 — C++](./submissions/003-11.md)
 

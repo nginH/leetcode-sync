@@ -8,7 +8,7 @@
 | Question ID | 347 |
 | Slug | `top-k-frequent-elements` |
 | Topics | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/top-k-frequent-elements/ |
 
@@ -80,4 +80,7 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
 

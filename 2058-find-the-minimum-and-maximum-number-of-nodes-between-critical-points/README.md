@@ -8,7 +8,7 @@
 | Question ID | 2182 |
 | Slug | `find-the-minimum-and-maximum-number-of-nodes-between-critical-points` |
 | Topics | Linked List |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
 
@@ -91,4 +91,5 @@ Note that the last node is not considered a local maxima because it does not hav
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

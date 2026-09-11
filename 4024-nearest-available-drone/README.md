@@ -8,7 +8,7 @@
 | Question ID | 4378 |
 | Slug | `nearest-available-drone` |
 | Topics | Array, Enumeration |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/nearest-available-drone/ |
 
@@ -113,4 +113,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

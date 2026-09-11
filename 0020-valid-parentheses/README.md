@@ -8,7 +8,7 @@
 | Question ID | 20 |
 | Slug | `valid-parentheses` |
 | Topics | String, Stack, Bracket Sequences |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/valid-parentheses/ |
 
@@ -96,4 +96,7 @@ Example 5:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
+3. [10 — C++](./submissions/003-10.md)
 

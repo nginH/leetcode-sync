@@ -8,7 +8,7 @@
 | Question ID | 56 |
 | Slug | `merge-intervals` |
 | Topics | Array, Sorting, Quicksort |
-| Total submissions | 0 |
+| Total submissions | 7 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/merge-intervals/ |
 
@@ -70,4 +70,11 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [11 — C++](./submissions/003-11.md)
+4. [10 — C++](./submissions/004-10.md)
+5. [11 — C++](./submissions/005-11.md)
+6. [11 — C++](./submissions/006-11.md)
+7. [11 — C++](./submissions/007-11.md)
 

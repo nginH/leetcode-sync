@@ -8,7 +8,7 @@
 | Question ID | 4363 |
 | Slug | `minimum-total-price-after-applying-discounts` |
 | Topics | Array, Two Pointers, Greedy, Sorting |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/minimum-total-price-after-applying-discounts/ |
 
@@ -121,4 +121,5 @@ The total is `0 + 0 + 3 = 3.00000`, which is the minimum possible.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

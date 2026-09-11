@@ -8,7 +8,7 @@
 | Question ID | 1002 |
 | Slug | `maximum-width-ramp` |
 | Topics | Array, Two Pointers, Stack, Monotonic Stack |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/maximum-width-ramp/ |
 
@@ -57,4 +57,5 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

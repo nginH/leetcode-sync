@@ -8,7 +8,7 @@
 | Question ID | 240 |
 | Slug | `search-a-2d-matrix-ii` |
 | Topics | Array, Binary Search, Divide and Conquer, Matrix |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/search-a-2d-matrix-ii/ |
 
@@ -76,4 +76,8 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [15 — C++](./submissions/003-15.md)
+4. [10 — C++](./submissions/004-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 91 |
 | Slug | `decode-ways` |
 | Topics | String, Dynamic Programming |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/decode-ways/ |
 
@@ -106,4 +106,7 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [12 — C++](./submissions/002-12.md)
+3. [11 — C++](./submissions/003-11.md)
 

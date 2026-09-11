@@ -8,7 +8,7 @@
 | Question ID | 803 |
 | Slug | `cheapest-flights-within-k-stops` |
 | Topics | Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/cheapest-flights-within-k-stops/ |
 
@@ -107,4 +107,10 @@ The optimal path with no stops from city 0 to 2 is marked in red and has cost 50
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [10 — C++](./submissions/004-10.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [10 — C++](./submissions/006-10.md)
 

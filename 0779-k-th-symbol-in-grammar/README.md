@@ -8,7 +8,7 @@
 | Question ID | 795 |
 | Slug | `k-th-symbol-in-grammar` |
 | Topics | Math, Bit Manipulation, Recursion |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/k-th-symbol-in-grammar/ |
 
@@ -84,4 +84,5 @@ row 2: 01
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

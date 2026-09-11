@@ -8,7 +8,7 @@
 | Question ID | 4352 |
 | Slug | `weighted-sum-of-a-tree` |
 | Topics | Array, Tree, Depth-First Search |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/weighted-sum-of-a-tree/ |
 
@@ -169,4 +169,7 @@ The sum of all node weights is `4 + 6 + 6 + 4 = 20`.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [20 — C++](./submissions/002-20.md)
+3. [11 — C++](./submissions/003-11.md)
 

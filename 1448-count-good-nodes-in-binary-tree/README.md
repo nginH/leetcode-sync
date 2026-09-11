@@ -8,7 +8,7 @@
 | Question ID | 1544 |
 | Slug | `count-good-nodes-in-binary-tree` |
 | Topics | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 
@@ -105,4 +105,7 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
 

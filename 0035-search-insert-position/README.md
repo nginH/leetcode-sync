@@ -8,7 +8,7 @@
 | Question ID | 35 |
 | Slug | `search-insert-position` |
 | Topics | Array, Binary Search |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/search-insert-position/ |
 
@@ -75,4 +75,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

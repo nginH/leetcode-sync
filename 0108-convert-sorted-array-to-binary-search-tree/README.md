@@ -8,7 +8,7 @@
 | Question ID | 108 |
 | Slug | `convert-sorted-array-to-binary-search-tree` |
 | Topics | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ |
 
@@ -63,4 +63,7 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 212 |
 | Slug | `word-search-ii` |
 | Topics | Array, String, Backtracking, Trie, Matrix |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/word-search-ii/ |
 
@@ -81,4 +81,5 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

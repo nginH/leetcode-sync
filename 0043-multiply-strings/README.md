@@ -8,7 +8,7 @@
 | Question ID | 43 |
 | Slug | `multiply-strings` |
 | Topics | Math, String, Simulation |
-| Total submissions | 0 |
+| Total submissions | 5 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/multiply-strings/ |
 
@@ -65,4 +65,9 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [50 — C++](./submissions/002-50.md)
+3. [50 — C++](./submissions/003-50.md)
+4. [50 — C++](./submissions/004-50.md)
+5. [50 — C++](./submissions/005-50.md)
 

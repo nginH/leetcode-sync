@@ -8,7 +8,7 @@
 | Question ID | 133 |
 | Slug | `clone-graph` |
 | Topics | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/clone-graph/ |
 
@@ -97,4 +97,7 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
 

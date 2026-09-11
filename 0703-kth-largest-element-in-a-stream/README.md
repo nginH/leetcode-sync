@@ -8,7 +8,7 @@
 | Question ID | 789 |
 | Slug | `kth-largest-element-in-a-stream` |
 | Topics | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
 
@@ -112,4 +112,6 @@ kthLargest.add(9); // return 8
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
 

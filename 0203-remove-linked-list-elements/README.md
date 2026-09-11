@@ -8,7 +8,7 @@
 | Question ID | 203 |
 | Slug | `remove-linked-list-elements` |
 | Topics | Linked List, Recursion |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/remove-linked-list-elements/ |
 
@@ -71,4 +71,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

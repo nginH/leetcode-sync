@@ -8,7 +8,7 @@
 | Question ID | 73 |
 | Slug | `set-matrix-zeroes` |
 | Topics | Array, Hash Table, Matrix |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/set-matrix-zeroes/ |
 
@@ -84,4 +84,5 @@ There is still a better approach for this problem with O(1) space.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

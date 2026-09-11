@@ -8,7 +8,7 @@
 | Question ID | 297 |
 | Slug | `serialize-and-deserialize-binary-tree` |
 | Topics | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ |
 
@@ -63,4 +63,10 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
+3. [15 — C++](./submissions/003-15.md)
+4. [15 — C++](./submissions/004-15.md)
+5. [20 — C++](./submissions/005-20.md)
+6. [20 — C++](./submissions/006-20.md)
 

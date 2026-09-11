@@ -8,7 +8,7 @@
 | Question ID | 237 |
 | Slug | `delete-node-in-a-linked-list` |
 | Topics | Linked List |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
 
@@ -90,4 +90,5 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

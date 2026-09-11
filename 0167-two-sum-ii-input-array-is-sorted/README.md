@@ -8,7 +8,7 @@
 | Question ID | 167 |
 | Slug | `two-sum-ii-input-array-is-sorted` |
 | Topics | Array, Two Pointers, Binary Search |
-| Total submissions | 0 |
+| Total submissions | 9 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 
@@ -74,4 +74,13 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [10 — C++](./submissions/004-10.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [10 — C++](./submissions/006-10.md)
+7. [10 — C++](./submissions/007-10.md)
+8. [11 — C++](./submissions/008-11.md)
+9. [11 — C++](./submissions/009-11.md)
 

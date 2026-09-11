@@ -8,7 +8,7 @@
 | Question ID | 721 |
 | Slug | `accounts-merge` |
 | Topics | Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/accounts-merge/ |
 
@@ -70,4 +70,6 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [20 — C++](./submissions/002-20.md)
 

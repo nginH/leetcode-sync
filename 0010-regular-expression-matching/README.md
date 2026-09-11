@@ -8,7 +8,7 @@
 | Question ID | 10 |
 | Slug | `regular-expression-matching` |
 | Topics | String, Dynamic Programming, Recursion |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/regular-expression-matching/ |
 
@@ -84,4 +84,6 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [12 — C++](./submissions/002-12.md)
 

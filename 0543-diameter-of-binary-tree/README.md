@@ -8,7 +8,7 @@
 | Question ID | 543 |
 | Slug | `diameter-of-binary-tree` |
 | Topics | Tree, Depth-First Search, Binary Tree, DP on Trees |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/diameter-of-binary-tree/ |
 
@@ -64,4 +64,7 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [11 — C++](./submissions/003-11.md)
 

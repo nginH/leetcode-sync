@@ -8,7 +8,7 @@
 | Question ID | 415 |
 | Slug | `add-strings` |
 | Topics | Math, String, Simulation |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/add-strings/ |
 
@@ -73,4 +73,6 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
 

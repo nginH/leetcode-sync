@@ -8,7 +8,7 @@
 | Question ID | 4401 |
 | Slug | `sum-of-decoded-numbers` |
 | Topics | None |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/sum-of-decoded-numbers/ |
 
@@ -127,4 +127,8 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [15 — C++](./submissions/003-15.md)
+4. [11 — C++](./submissions/004-11.md)
 

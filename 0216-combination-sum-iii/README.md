@@ -8,7 +8,7 @@
 | Question ID | 216 |
 | Slug | `combination-sum-iii` |
 | Topics | Array, Backtracking |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/combination-sum-iii/ |
 
@@ -85,4 +85,7 @@ Using 4 different numbers in the range [1,9], the smallest sum we can get is 1+2
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
 

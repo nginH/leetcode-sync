@@ -8,7 +8,7 @@
 | Question ID | 1492 |
 | Slug | `time-needed-to-inform-all-employees` |
 | Topics | Tree, Depth-First Search, Breadth-First Search |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/time-needed-to-inform-all-employees/ |
 
@@ -99,4 +99,5 @@ The tree structure of the employees in the company is shown.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

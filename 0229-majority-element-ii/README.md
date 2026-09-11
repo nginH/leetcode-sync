@@ -8,7 +8,7 @@
 | Question ID | 229 |
 | Slug | `majority-element-ii` |
 | Topics | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/majority-element-ii/ |
 
@@ -75,4 +75,8 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [11 — C++](./submissions/004-11.md)
 

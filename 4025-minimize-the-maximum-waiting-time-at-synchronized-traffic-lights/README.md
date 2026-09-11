@@ -8,7 +8,7 @@
 | Question ID | 4375 |
 | Slug | `minimize-the-maximum-waiting-time-at-synchronized-traffic-lights` |
 | Topics | Array, Greedy |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/ |
 
@@ -124,4 +124,7 @@ The penalty of this assignment is 3, which is the minimum possible.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [14 — C++](./submissions/002-14.md)
+3. [14 — C++](./submissions/003-14.md)
 

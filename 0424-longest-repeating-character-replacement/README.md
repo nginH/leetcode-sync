@@ -8,7 +8,7 @@
 | Question ID | 424 |
 | Slug | `longest-repeating-character-replacement` |
 | Topics | Hash Table, String, Sliding Window |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/longest-repeating-character-replacement/ |
 
@@ -70,4 +70,6 @@ There may exists other ways to achieve this answer too.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
 

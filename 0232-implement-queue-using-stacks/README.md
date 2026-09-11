@@ -8,7 +8,7 @@
 | Question ID | 232 |
 | Slug | `implement-queue-using-stacks` |
 | Topics | Stack, Design, Queue |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/implement-queue-using-stacks/ |
 
@@ -73,4 +73,7 @@ myQueue.empty(); // return false
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [50 — C++](./submissions/003-50.md)
 

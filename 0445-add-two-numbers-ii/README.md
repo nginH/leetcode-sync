@@ -8,7 +8,7 @@
 | Question ID | 445 |
 | Slug | `add-two-numbers-ii` |
 | Topics | Linked List, Math, Stack |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/add-two-numbers-ii/ |
 
@@ -77,4 +77,10 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [11 — C++](./submissions/004-11.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [10 — C++](./submissions/006-10.md)
 

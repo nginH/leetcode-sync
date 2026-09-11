@@ -8,7 +8,7 @@
 | Question ID | 275 |
 | Slug | `h-index-ii` |
 | Topics | Array, Binary Search |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/h-index-ii/ |
 
@@ -73,4 +73,10 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [11 — C++](./submissions/003-11.md)
+4. [11 — C++](./submissions/004-11.md)
+5. [11 — C++](./submissions/005-11.md)
+6. [11 — C++](./submissions/006-11.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 162 |
 | Slug | `find-peak-element` |
 | Topics | Array, Binary Search |
-| Total submissions | 0 |
+| Total submissions | 9 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-peak-element/ |
 
@@ -69,4 +69,13 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [15 — C++](./submissions/003-15.md)
+4. [15 — C++](./submissions/004-15.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [11 — C++](./submissions/006-11.md)
+7. [11 — C++](./submissions/007-11.md)
+8. [14 — C++](./submissions/008-14.md)
+9. [14 — C++](./submissions/009-14.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 637 |
 | Slug | `average-of-levels-in-binary-tree` |
 | Topics | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/average-of-levels-in-binary-tree/ |
 
@@ -60,4 +60,6 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
 

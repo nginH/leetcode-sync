@@ -8,7 +8,7 @@
 | Question ID | 5 |
 | Slug | `longest-palindromic-substring` |
 | Topics | Two Pointers, String, Dynamic Programming, Manacher |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/longest-palindromic-substring/ |
 
@@ -67,4 +67,5 @@ If we use brute-force and check whether for every start and end position a subst
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

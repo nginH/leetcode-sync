@@ -8,7 +8,7 @@
 | Question ID | 1171 |
 | Slug | `shortest-path-in-binary-matrix` |
 | Topics | Array, Breadth-First Search, Matrix |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/shortest-path-in-binary-matrix/ |
 
@@ -81,4 +81,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

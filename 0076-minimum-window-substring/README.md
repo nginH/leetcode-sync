@@ -8,7 +8,7 @@
 | Question ID | 76 |
 | Slug | `minimum-window-substring` |
 | Topics | Hash Table, String, Sliding Window |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/minimum-window-substring/ |
 
@@ -90,4 +90,5 @@ Since the largest window of s only has one 'a', return empty string.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

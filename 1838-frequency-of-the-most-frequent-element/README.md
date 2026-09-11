@@ -8,7 +8,7 @@
 | Question ID | 1966 |
 | Slug | `frequency-of-the-most-frequent-element` |
 | Topics | Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/frequency-of-the-most-frequent-element/ |
 
@@ -86,4 +86,6 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
 

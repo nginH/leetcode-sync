@@ -8,7 +8,7 @@
 | Question ID | 160 |
 | Slug | `intersection-of-two-linked-lists` |
 | Topics | Hash Table, Linked List, Two Pointers |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/intersection-of-two-linked-lists/ |
 
@@ -126,4 +126,7 @@ Explanation: The two lists do not intersect, so return null.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
 

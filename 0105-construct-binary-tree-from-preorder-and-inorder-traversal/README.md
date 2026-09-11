@@ -8,7 +8,7 @@
 | Question ID | 105 |
 | Slug | `construct-binary-tree-from-preorder-and-inorder-traversal` |
 | Topics | Array, Hash Table, Divide and Conquer, Tree, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ |
 
@@ -72,4 +72,6 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
 

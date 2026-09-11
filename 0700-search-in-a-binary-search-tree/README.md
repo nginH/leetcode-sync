@@ -8,7 +8,7 @@
 | Question ID | 783 |
 | Slug | `search-in-a-binary-search-tree` |
 | Topics | Tree, Binary Search Tree, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/search-in-a-binary-search-tree/ |
 
@@ -68,4 +68,5 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

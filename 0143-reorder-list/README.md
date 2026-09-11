@@ -8,7 +8,7 @@
 | Question ID | 143 |
 | Slug | `reorder-list` |
 | Topics | Linked List, Two Pointers, Stack, Recursion |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/reorder-list/ |
 
@@ -67,4 +67,7 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [15 — C++](./submissions/003-15.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 1036 |
 | Slug | `rotting-oranges` |
 | Topics | Array, Breadth-First Search, Matrix |
-| Total submissions | 2 |
+| Total submissions | 7 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/rotting-oranges/ |
 
@@ -83,4 +83,9 @@ All actual submitted solutions are stored separately in the `submissions/` direc
 
 1. [10 — C++](./submissions/001-10.md)
 2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [11 — C++](./submissions/004-11.md)
+5. [11 — C++](./submissions/005-11.md)
+6. [10 — C++](./submissions/006-10.md)
+7. [20 — C++](./submissions/007-20.md)
 

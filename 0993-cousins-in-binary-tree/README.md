@@ -8,7 +8,7 @@
 | Question ID | 1035 |
 | Slug | `cousins-in-binary-tree` |
 | Topics | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/cousins-in-binary-tree/ |
 
@@ -83,4 +83,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

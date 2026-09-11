@@ -8,7 +8,7 @@
 | Question ID | 9 |
 | Slug | `palindrome-number` |
 | Topics | Math |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/palindrome-number/ |
 
@@ -74,4 +74,10 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [15 — C++](./submissions/002-15.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [15 — C++](./submissions/004-15.md)
+5. [15 — C++](./submissions/005-15.md)
+6. [10 — C++](./submissions/006-10.md)
 

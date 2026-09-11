@@ -8,7 +8,7 @@
 | Question ID | 28 |
 | Slug | `find-the-index-of-the-first-occurrence-in-a-string` |
 | Topics | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm |
-| Total submissions | 0 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ |
 
@@ -65,4 +65,7 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [11 — C++](./submissions/003-11.md)
 

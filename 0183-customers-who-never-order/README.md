@@ -8,7 +8,7 @@
 | Question ID | 183 |
 | Slug | `customers-who-never-order` |
 | Topics | Database |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/customers-who-never-order/ |
 
@@ -92,4 +92,5 @@ Orders table:
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — PostgreSQL](./submissions/001-10.md)
 

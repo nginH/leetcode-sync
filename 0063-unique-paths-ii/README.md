@@ -8,7 +8,7 @@
 | Question ID | 63 |
 | Slug | `unique-paths-ii` |
 | Topics | Array, Dynamic Programming, Matrix |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/unique-paths-ii/ |
 
@@ -78,4 +78,8 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [14 — C++](./submissions/003-14.md)
+4. [14 — C++](./submissions/004-14.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 210 |
 | Slug | `course-schedule-ii` |
 | Topics | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/course-schedule-ii/ |
 
@@ -90,4 +90,10 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [11 — C++](./submissions/003-11.md)
+4. [10 — C++](./submissions/004-10.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [11 — C++](./submissions/006-11.md)
 

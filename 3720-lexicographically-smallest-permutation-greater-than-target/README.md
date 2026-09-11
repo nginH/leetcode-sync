@@ -8,7 +8,7 @@
 | Question ID | 4020 |
 | Slug | `lexicographically-smallest-permutation-greater-than-target` |
 | Topics | Hash Table, String, Greedy, Counting, Enumeration |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/ |
 
@@ -101,4 +101,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 278 |
 | Slug | `first-bad-version` |
 | Topics | Binary Search, Interactive |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/first-bad-version/ |
 
@@ -69,4 +69,6 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
 

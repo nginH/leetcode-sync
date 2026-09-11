@@ -8,7 +8,7 @@
 | Question ID | 236 |
 | Slug | `lowest-common-ancestor-of-a-binary-tree` |
 | Topics | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ |
 
@@ -83,4 +83,6 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
 

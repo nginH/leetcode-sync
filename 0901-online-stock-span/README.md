@@ -8,7 +8,7 @@
 | Question ID | 937 |
 | Slug | `online-stock-span` |
 | Topics | Stack, Design, Monotonic Stack, Data Stream |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/online-stock-span/ |
 
@@ -73,4 +73,6 @@ stockSpanner.next(85);  // return 6
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 234 |
 | Slug | `palindrome-linked-list` |
 | Topics | Linked List, Two Pointers, Stack, Recursion |
-| Total submissions | 0 |
+| Total submissions | 7 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/palindrome-linked-list/ |
 
@@ -63,4 +63,11 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [20 — C++](./submissions/004-20.md)
+5. [11 — C++](./submissions/005-11.md)
+6. [11 — C++](./submissions/006-11.md)
+7. [11 — C++](./submissions/007-11.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 416 |
 | Slug | `partition-equal-subset-sum` |
 | Topics | Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/partition-equal-subset-sum/ |
 
@@ -61,4 +61,8 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [14 — C++](./submissions/002-14.md)
+3. [11 — C++](./submissions/003-11.md)
+4. [11 — C++](./submissions/004-11.md)
 

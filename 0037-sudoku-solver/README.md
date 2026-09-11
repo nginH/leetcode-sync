@@ -8,7 +8,7 @@
 | Question ID | 37 |
 | Slug | `sudoku-solver` |
 | Topics | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/sudoku-solver/ |
 
@@ -67,4 +67,5 @@ Example 1:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

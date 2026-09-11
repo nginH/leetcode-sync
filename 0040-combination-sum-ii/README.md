@@ -8,7 +8,7 @@
 | Question ID | 40 |
 | Slug | `combination-sum-ii` |
 | Topics | Array, Backtracking |
-| Total submissions | 0 |
+| Total submissions | 6 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/combination-sum-ii/ |
 
@@ -78,4 +78,10 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [14 — C++](./submissions/002-14.md)
+3. [10 — C++](./submissions/003-10.md)
+4. [10 — C++](./submissions/004-10.md)
+5. [10 — C++](./submissions/005-10.md)
+6. [14 — C++](./submissions/006-14.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 1031 |
 | Slug | `add-to-array-form-of-integer` |
 | Topics | Array, Math |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/add-to-array-form-of-integer/ |
 
@@ -80,4 +80,5 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 191 |
 | Slug | `number-of-1-bits` |
 | Topics | Divide and Conquer, Bit Manipulation |
-| Total submissions | 0 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/number-of-1-bits/ |
 
@@ -82,4 +82,6 @@ The input binary string **1111111111111111111111111111101** has a total of thirt
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
 

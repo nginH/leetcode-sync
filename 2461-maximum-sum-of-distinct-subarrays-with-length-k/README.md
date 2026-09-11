@@ -8,7 +8,7 @@
 | Question ID | 2552 |
 | Slug | `maximum-sum-of-distinct-subarrays-with-length-k` |
 | Topics | Array, Hash Table, Sliding Window |
-| Total submissions | 0 |
+| Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/ |
 
@@ -86,4 +86,8 @@ We return 0 because no subarrays meet the conditions.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
+2. [11 — C++](./submissions/002-11.md)
+3. [11 — C++](./submissions/003-11.md)
+4. [11 — C++](./submissions/004-11.md)
 

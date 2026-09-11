@@ -8,7 +8,7 @@
 | Question ID | 26 |
 | Slug | `remove-duplicates-from-sorted-array` |
 | Topics | Array, Two Pointers |
-| Total submissions | 0 |
+| Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
@@ -92,4 +92,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
+1. [10 — C++](./submissions/001-10.md)
 
