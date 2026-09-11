@@ -10,6 +10,7 @@ const CSRF_TOKEN = process.env.LEETCODE_CSRF_TOKEN;
 const SESSION = process.env.LEETCODE_SESSION;
 const REQUEST_CONCURRENCY = 10;
 const RECENT_SUBMISSION_WINDOW_MS = 2 * 24 * 60 * 60 * 1000;
+const FULL_SYNC = process.env.LEETCODE_FULL_SYNC === "true";
 
 function createLimiter(concurrency) {
   let active = 0;
@@ -283,15 +284,38 @@ async function getSubmissionHistory(questionSlug) {
     }
   `;
 
-  return graphql(
-    query,
-    {
-      offset: 0,
-      limit: 100,
-      questionSlug,
+  const limit = 100;
+  let offset = 0;
+  let totalNum = 0;
+  const submissions = [];
+
+  do {
+    const data = await graphql(
+      query,
+      {
+        offset,
+        limit,
+        questionSlug,
+      },
+      "userProgressSubmissionList"
+    );
+    const result = data.userProgressSubmissionList;
+
+    totalNum = result.totalNum;
+    submissions.push(...result.submissions);
+    offset += result.submissions.length;
+
+    if (result.submissions.length === 0) {
+      break;
+    }
+  } while (submissions.length < totalNum);
+
+  return {
+    userProgressSubmissionList: {
+      totalNum,
+      submissions,
     },
-    "userProgressSubmissionList"
-  );
+  };
 }
 
 /* =========================================================
@@ -441,6 +465,41 @@ function isRecentSubmission(submission, now = Date.now()) {
   return timestamp >= now - RECENT_SUBMISSION_WINDOW_MS;
 }
 
+async function getSubmissionFileMap(directory) {
+  const files = new Map();
+
+  let filenames = [];
+  try {
+    filenames = await fs.readdir(directory);
+  } catch {
+    return files;
+  }
+
+  for (const filename of filenames) {
+    if (!filename.endsWith(".md")) {
+      continue;
+    }
+
+    try {
+      const content = await fs.readFile(
+        path.join(directory, filename),
+        "utf8"
+      );
+      const match = content.match(
+        /\| Submission ID \| (\d+) \|/
+      );
+
+      if (match) {
+        files.set(match[1], filename);
+      }
+    } catch {
+      // Ignore unreadable files and continue syncing.
+    }
+  }
+
+  return files;
+}
+
 function sleep(ms) {
   return new Promise((resolve) =>
     setTimeout(resolve, ms)
@@ -453,7 +512,8 @@ function sleep(ms) {
 
 function generateQuestionMarkdown(
   question,
-  history
+  history,
+  submissionFiles
 ) {
   const tags =
     question.topicTags
@@ -533,11 +593,16 @@ function generateQuestionMarkdown(
 
   history.forEach(
     (submission, index) => {
-      output += `${index + 1}. [${submission.status} — ${submission.langName}](./submissions/${String(
-        index + 1
-      ).padStart(3, "0")}-${safeSlug(
-        submission.status
-      )}.md)\n`;
+      const filename = submissionFiles
+        ? submissionFiles.get(String(submission.id))
+        : `${String(index + 1).padStart(3, "0")}-${safeSlug(
+            submission.status
+          )}.md`;
+      const label = `${submission.status} — ${submission.langName}`;
+
+      output += filename
+        ? `${index + 1}. [${label}](./submissions/${filename})\n`
+        : `${index + 1}. ${label} (not downloaded)\n`;
     }
   );
 
@@ -782,12 +847,16 @@ async function syncQuestion(
     `  Total submissions: ${history.totalNum}`
   );
 
-  const submissions = history.submissions.filter(
-    (submission) => isRecentSubmission(submission)
-  );
+  const recentSubmissions = FULL_SYNC
+    ? history.submissions
+    : history.submissions.filter(
+        (submission) => isRecentSubmission(submission)
+      );
 
   console.log(
-    `  Recent submissions (last 2 days): ${submissions.length}`
+    FULL_SYNC
+      ? `  Full sync submissions: ${recentSubmissions.length}`
+      : `  Recent submissions (last 2 days): ${recentSubmissions.length}`
   );
 
   /* Folder */
@@ -818,12 +887,39 @@ async function syncQuestion(
     }
   );
 
+  const submissionFiles = await getSubmissionFileMap(
+    submissionsDirectory
+  );
+
+  const usedFilenames = new Set(submissionFiles.values());
+
+  recentSubmissions.forEach((submission, index) => {
+    const submissionId = String(submission.id);
+
+    if (submissionFiles.has(submissionId)) {
+      return;
+    }
+
+    const legacyFilename = `${String(index + 1).padStart(
+      3,
+      "0"
+    )}-${safeSlug(submission.status)}.md`;
+    const stableFilename = `submission-${submissionId}.md`;
+    const filename = usedFilenames.has(legacyFilename)
+      ? stableFilename
+      : legacyFilename;
+
+    submissionFiles.set(submissionId, filename);
+    usedFilenames.add(filename);
+  });
+
   /* README */
 
   const readme =
     generateQuestionMarkdown(
       questionData,
-      submissions
+      history.submissions,
+      submissionFiles
     );
 
   await fs.writeFile(
@@ -856,16 +952,15 @@ async function syncQuestion(
 
   for (
     let i = 0;
-    i < submissions.length;
+    i < recentSubmissions.length;
     i++
   ) {
     const submission =
-      submissions[i];
+      recentSubmissions[i];
 
-    const filename =
-      `${String(i + 1).padStart(3, "0")}-${safeSlug(
-        submission.status
-      )}.md`;
+    const filename = submissionFiles.get(
+      String(submission.id)
+    );
 
     const filePath = path.join(
       submissionsDirectory,
@@ -880,7 +975,7 @@ async function syncQuestion(
     }
 
     console.log(
-      `  [${i + 1}/${submissions.length}] Fetching submission ${submission.id}`
+      `  [${i + 1}/${recentSubmissions.length}] Fetching submission ${submission.id}`
     );
 
     try {
