@@ -9,6 +9,8 @@ jobs:
   sync:
     runs-on: ubuntu-latest
 
+    environment:
+      name: dev
     permissions:
       contents: write
 
