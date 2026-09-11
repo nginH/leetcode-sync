@@ -8,6 +8,61 @@ const LEETCODE_URL = "https://leetcode.com/graphql/";
 const CSRF_TOKEN = process.env.LEETCODE_CSRF_TOKEN;
 
 const SESSION = process.env.LEETCODE_SESSION;
+const REQUEST_CONCURRENCY = 10;
+const RECENT_SUBMISSION_WINDOW_MS = 2 * 24 * 60 * 60 * 1000;
+
+function createLimiter(concurrency) {
+  let active = 0;
+  const queue = [];
+
+  const next = () => {
+    if (active >= concurrency || queue.length === 0) {
+      return;
+    }
+
+    active++;
+    const { task, resolve, reject } = queue.shift();
+
+    Promise.resolve()
+      .then(task)
+      .then(resolve, reject)
+      .finally(() => {
+        active--;
+        next();
+      });
+
+    next();
+  };
+
+  return (task) =>
+    new Promise((resolve, reject) => {
+      queue.push({ task, resolve, reject });
+      next();
+    });
+}
+
+const requestLimiter = createLimiter(REQUEST_CONCURRENCY);
+
+async function runWithConcurrency(items, concurrency, task) {
+  let nextIndex = 0;
+
+  async function worker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex++;
+      await task(items[index], index);
+    }
+  }
+
+  const workers = Array.from(
+    {
+      length: Math.min(concurrency, items.length),
+    },
+    worker
+  );
+
+  await Promise.all(workers);
+}
+
 function getOutputDir() {
   return path.resolve(
     process.env.LEETCODE_OUTPUT_DIR || "."
@@ -15,31 +70,33 @@ function getOutputDir() {
 }
 
 async function graphql(query, variables, operationName) {
-  const response = await fetch(LEETCODE_URL, {
-    method: "POST",
+  const response = await requestLimiter(() =>
+    fetch(LEETCODE_URL, {
+      method: "POST",
 
-    headers: {
-      Accept: "*/*",
-      "Content-Type": "application/json",
+      headers: {
+        Accept: "*/*",
+        "Content-Type": "application/json",
 
-      "x-csrftoken": CSRF_TOKEN,
+        "x-csrftoken": CSRF_TOKEN,
 
-      Cookie: `LEETCODE_SESSION=${SESSION}; csrftoken=${CSRF_TOKEN}`,
+        Cookie: `LEETCODE_SESSION=${SESSION}; csrftoken=${CSRF_TOKEN}`,
 
-      "x-operation-name": operationName,
+        "x-operation-name": operationName,
 
-      Origin: "https://leetcode.com",
-      Referer: "https://leetcode.com/",
-      "User-Agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/152 Safari/537.36",
-    },
+        Origin: "https://leetcode.com",
+        Referer: "https://leetcode.com/",
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/152 Safari/537.36",
+      },
 
-    body: JSON.stringify({
-      query,
-      variables,
-      operationName,
-    }),
-  });
+      body: JSON.stringify({
+        query,
+        variables,
+        operationName,
+      }),
+    })
+  );
 
   const text = await response.text();
 
@@ -379,6 +436,10 @@ function safeSlug(value) {
     .replace(/^-+|-+$/g, "");
 }
 
+function isRecentSubmission(submission, now = Date.now()) {
+  const timestamp = Number(submission.timestamp) * 1000;
+  return timestamp >= now - RECENT_SUBMISSION_WINDOW_MS;
+}
 
 function sleep(ms) {
   return new Promise((resolve) =>
@@ -721,8 +782,13 @@ async function syncQuestion(
     `  Total submissions: ${history.totalNum}`
   );
 
-  const submissions =
-    history.submissions;
+  const submissions = history.submissions.filter(
+    (submission) => isRecentSubmission(submission)
+  );
+
+  console.log(
+    `  Recent submissions (last 2 days): ${submissions.length}`
+  );
 
   /* Folder */
 
@@ -885,37 +951,33 @@ async function main() {
   let successful = 0;
   let failed = 0;
 
-  for (
-    let i = 0;
-    i < solved.length;
-    i++
-  ) {
-    try {
-      await syncQuestion(
-        solved[i],
-        i + 1,
-        solved.length
-      );
+  await runWithConcurrency(
+    solved,
+    REQUEST_CONCURRENCY,
+    async (question, index) => {
+      try {
+        await syncQuestion(
+          question,
+          index + 1,
+          solved.length
+        );
 
-      successful++;
-    } catch (error) {
-      failed++;
+        successful++;
+      } catch (error) {
+        failed++;
 
-      console.error(
-        `  ✗ Failed: ${solved[i].title}`
-      );
+        console.error(
+          `  ✗ Failed: ${question.title}`
+        );
 
-      console.error(
-        `    ${error.message}`
-      );
+        console.error(
+          `    ${error.message}`
+        );
+      }
+
+      await sleep(500);
     }
-
-    /*
-     * Don't hammer LeetCode.
-     */
-
-    await sleep(500);
-  }
+  );
 
   console.log(`
 ========================================

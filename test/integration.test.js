@@ -215,7 +215,7 @@ describe("Integration Tests - LeetCode Sync Pipeline", () => {
                         langName: "cpp",
                         runtime: "4 ms",
                         memory: "10 MB",
-                        timestamp: 1788287758,
+                        timestamp: Math.floor(Date.now() / 1000),
                       },
                     ],
                   },
