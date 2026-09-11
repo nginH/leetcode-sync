@@ -8,7 +8,7 @@
 | Question ID | 4370 |
 | Slug | `longest-subarray-with-at-most-k-distinct-prime-factors` |
 | Topics | None |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/ |
 
@@ -117,6 +117,4 @@ Since `3 > 2`, only subarrays of length 1 are valid. Therefore, the answer is 1.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [14 — C++](./submissions/002-14.md)
 

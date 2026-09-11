@@ -8,7 +8,7 @@
 | Question ID | 168 |
 | Slug | `excel-sheet-column-title` |
 | Topics | Math, String |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/excel-sheet-column-title/ |
 
@@ -74,5 +74,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

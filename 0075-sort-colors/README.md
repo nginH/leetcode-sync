@@ -8,7 +8,7 @@
 | Question ID | 75 |
 | Slug | `sort-colors` |
 | Topics | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
-| Total submissions | 6 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/sort-colors/ |
 
@@ -85,10 +85,4 @@ The array has one each of 0, 1, and 2, arranged in-place in the order 0, 1, 2.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [15 — C++](./submissions/003-15.md)
-4. [10 — C++](./submissions/004-10.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [10 — C++](./submissions/006-10.md)
 

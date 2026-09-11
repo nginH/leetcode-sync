@@ -8,7 +8,7 @@
 | Question ID | 121 |
 | Slug | `best-time-to-buy-and-sell-stock` |
 | Topics | Array, Dynamic Programming |
-| Total submissions | 13 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 
@@ -66,17 +66,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [11 — C++](./submissions/004-11.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [11 — C++](./submissions/006-11.md)
-7. [10 — C++](./submissions/007-10.md)
-8. [11 — C++](./submissions/008-11.md)
-9. [14 — C++](./submissions/009-14.md)
-10. [10 — C++](./submissions/010-10.md)
-11. [14 — C](./submissions/011-14.md)
-12. [14 — C++](./submissions/012-14.md)
-13. [14 — C++](./submissions/013-14.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 268 |
 | Slug | `missing-number` |
 | Topics | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/missing-number/ |
 
@@ -96,6 +96,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
 

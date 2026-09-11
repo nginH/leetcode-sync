@@ -8,7 +8,7 @@
 | Question ID | 494 |
 | Slug | `target-sum` |
 | Topics | Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/target-sum/ |
 
@@ -78,7 +78,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
 

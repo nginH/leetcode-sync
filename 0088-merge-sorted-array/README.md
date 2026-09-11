@@ -8,7 +8,7 @@
 | Question ID | 88 |
 | Slug | `merge-sorted-array` |
 | Topics | Array, Two Pointers, Sorting |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/merge-sorted-array/ |
 
@@ -103,9 +103,4 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [11 — C++](./submissions/003-11.md)
-4. [10 — C++](./submissions/004-10.md)
-5. [10 — C++](./submissions/005-10.md)
 

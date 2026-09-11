@@ -8,7 +8,7 @@
 | Question ID | 2567 |
 | Slug | `closest-nodes-queries-in-a-binary-search-tree` |
 | Topics | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/ |
 
@@ -86,5 +86,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

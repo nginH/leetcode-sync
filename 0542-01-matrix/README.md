@@ -8,7 +8,7 @@
 | Question ID | 542 |
 | Slug | `01-matrix` |
 | Topics | Array, Dynamic Programming, Breadth-First Search, Matrix |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/01-matrix/ |
 
@@ -63,5 +63,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

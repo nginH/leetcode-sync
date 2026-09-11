@@ -8,7 +8,7 @@
 | Question ID | 211 |
 | Slug | `design-add-and-search-words-data-structure` |
 | Topics | String, Depth-First Search, Design, Trie |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/design-add-and-search-words-data-structure/ |
 
@@ -79,5 +79,4 @@ wordDictionary.search("b.."); // return True
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 152 |
 | Slug | `maximum-product-subarray` |
 | Topics | Array, Dynamic Programming |
-| Total submissions | 8 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/maximum-product-subarray/ |
 
@@ -67,12 +67,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [11 — C++](./submissions/003-11.md)
-4. [11 — C++](./submissions/004-11.md)
-5. [11 — C++](./submissions/005-11.md)
-6. [10 — C++](./submissions/006-10.md)
-7. [11 — C++](./submissions/007-11.md)
-8. [11 — C++](./submissions/008-11.md)
 

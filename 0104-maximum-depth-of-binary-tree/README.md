@@ -8,7 +8,7 @@
 | Question ID | 104 |
 | Slug | `maximum-depth-of-binary-tree` |
 | Topics | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
 
@@ -61,7 +61,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [15 — C++](./submissions/002-15.md)
-3. [10 — C++](./submissions/003-10.md)
 

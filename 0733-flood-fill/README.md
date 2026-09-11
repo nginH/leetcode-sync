@@ -8,7 +8,7 @@
 | Question ID | 733 |
 | Slug | `flood-fill` |
 | Topics | Array, Depth-First Search, Breadth-First Search, Matrix |
-| Total submissions | 4 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/flood-fill/ |
 
@@ -106,6 +106,4 @@ All actual submitted solutions are stored separately in the `submissions/` direc
 
 1. [10 — C++](./submissions/001-10.md)
 2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [20 — C++](./submissions/004-20.md)
 

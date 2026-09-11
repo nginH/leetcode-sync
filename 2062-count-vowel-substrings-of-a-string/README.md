@@ -8,7 +8,7 @@
 | Question ID | 2186 |
 | Slug | `count-vowel-substrings-of-a-string` |
 | Topics | Hash Table, String |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/count-vowel-substrings-of-a-string/ |
 
@@ -86,7 +86,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [11 — C++](./submissions/003-11.md)
 

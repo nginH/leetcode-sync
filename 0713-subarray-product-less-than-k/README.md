@@ -8,7 +8,7 @@
 | Question ID | 713 |
 | Slug | `subarray-product-less-than-k` |
 | Topics | Array, Binary Search, Sliding Window, Prefix Sum |
-| Total submissions | 8 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/subarray-product-less-than-k/ |
 
@@ -73,12 +73,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [11 — C++](./submissions/003-11.md)
-4. [10 — C++](./submissions/004-10.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [10 — C++](./submissions/006-10.md)
-7. [10 — C++](./submissions/007-10.md)
-8. [10 — C++](./submissions/008-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 151 |
 | Slug | `reverse-words-in-a-string` |
 | Topics | Two Pointers, String |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/reverse-words-in-a-string/ |
 
@@ -71,5 +71,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

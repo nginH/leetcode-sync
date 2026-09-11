@@ -8,7 +8,7 @@
 | Question ID | 3242 |
 | Slug | `count-elements-with-maximum-frequency` |
 | Topics | Array, Hash Table, Counting |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/count-elements-with-maximum-frequency/ |
 
@@ -72,5 +72,4 @@ So the number of elements in the array with maximum frequency is 5.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

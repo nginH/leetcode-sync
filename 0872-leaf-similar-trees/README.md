@@ -8,7 +8,7 @@
 | Question ID | 904 |
 | Slug | `leaf-similar-trees` |
 | Topics | Tree, Depth-First Search, Binary Tree |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/leaf-similar-trees/ |
 
@@ -68,5 +68,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

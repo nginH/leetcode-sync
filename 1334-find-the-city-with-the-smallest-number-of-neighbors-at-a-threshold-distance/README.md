@@ -8,7 +8,7 @@
 | Question ID | 1456 |
 | Slug | `find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance` |
 | Topics | Dynamic Programming, Graph Theory, Shortest Path, Dijkstra's Algorithm, Bellman–Ford Algorithm, Floyd–Warshall Algorithm |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/ |
 
@@ -97,6 +97,4 @@ The city 0 has 1 neighboring city at a distanceThreshold = 2.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
 

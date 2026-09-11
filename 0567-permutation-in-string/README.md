@@ -8,7 +8,7 @@
 | Question ID | 567 |
 | Slug | `permutation-in-string` |
 | Topics | Hash Table, Two Pointers, String, Sliding Window |
-| Total submissions | 7 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/permutation-in-string/ |
 
@@ -74,11 +74,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [20 — C++](./submissions/004-20.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [10 — C++](./submissions/006-10.md)
-7. [15 — C++](./submissions/007-15.md)
 

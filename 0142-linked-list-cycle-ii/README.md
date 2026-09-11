@@ -8,7 +8,7 @@
 | Question ID | 142 |
 | Slug | `linked-list-cycle-ii` |
 | Topics | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
-| Total submissions | 4 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/linked-list-cycle-ii/ |
 
@@ -82,8 +82,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [14 — C++](./submissions/003-14.md)
-4. [10 — C++](./submissions/004-10.md)
 

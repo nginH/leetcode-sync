@@ -8,7 +8,7 @@
 | Question ID | 403 |
 | Slug | `frog-jump` |
 | Topics | Array, Dynamic Programming |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/frog-jump/ |
 
@@ -69,6 +69,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [14 — C++](./submissions/002-14.md)
 

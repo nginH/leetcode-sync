@@ -8,7 +8,7 @@
 | Question ID | 695 |
 | Slug | `max-area-of-island` |
 | Topics | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
-| Total submissions | 3 |
+| Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/max-area-of-island/ |
 
@@ -70,5 +70,4 @@ All actual submitted solutions are stored separately in the `submissions/` direc
 
 1. [10 — C++](./submissions/001-10.md)
 2. [15 — C++](./submissions/002-15.md)
-3. [10 — C++](./submissions/003-10.md)
 

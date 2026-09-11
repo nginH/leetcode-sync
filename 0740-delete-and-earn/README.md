@@ -8,7 +8,7 @@
 | Question ID | 740 |
 | Slug | `delete-and-earn` |
 | Topics | Array, Hash Table, Dynamic Programming |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/delete-and-earn/ |
 
@@ -76,7 +76,4 @@ You earn a total of 9 points.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [14 — C++](./submissions/002-14.md)
-3. [14 — C++](./submissions/003-14.md)
 

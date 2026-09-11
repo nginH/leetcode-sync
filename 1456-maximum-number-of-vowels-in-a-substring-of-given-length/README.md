@@ -8,7 +8,7 @@
 | Question ID | 1567 |
 | Slug | `maximum-number-of-vowels-in-a-substring-of-given-length` |
 | Topics | String, Sliding Window |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ |
 
@@ -81,7 +81,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
 

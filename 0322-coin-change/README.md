@@ -8,7 +8,7 @@
 | Question ID | 322 |
 | Slug | `coin-change` |
 | Topics | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/coin-change/ |
 
@@ -76,9 +76,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [14 — C++](./submissions/003-14.md)
-4. [10 — C++](./submissions/004-10.md)
-5. [14 — C++](./submissions/005-14.md)
 

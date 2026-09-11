@@ -8,7 +8,7 @@
 | Question ID | 207 |
 | Slug | `course-schedule` |
 | Topics | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph |
-| Total submissions | 6 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/course-schedule/ |
 
@@ -82,10 +82,4 @@ To take course 1 you should have finished course 0, and to take course 0 you sho
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [10 — C++](./submissions/004-10.md)
-5. [11 — C++](./submissions/005-11.md)
-6. [10 — C++](./submissions/006-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 3 |
 | Slug | `longest-substring-without-repeating-characters` |
 | Topics | Hash Table, String, Sliding Window |
-| Total submissions | 11 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 
@@ -73,15 +73,4 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [11 — C++](./submissions/004-11.md)
-5. [11 — C++](./submissions/005-11.md)
-6. [11 — C++](./submissions/006-11.md)
-7. [11 — C++](./submissions/007-11.md)
-8. [11 — C++](./submissions/008-11.md)
-9. [11 — C++](./submissions/009-11.md)
-10. [11 — C++](./submissions/010-11.md)
-11. [15 — C++](./submissions/011-15.md)
 

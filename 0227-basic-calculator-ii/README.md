@@ -8,7 +8,7 @@
 | Question ID | 227 |
 | Slug | `basic-calculator-ii` |
 | Topics | Math, String, Stack |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/basic-calculator-ii/ |
 
@@ -75,5 +75,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

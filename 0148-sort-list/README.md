@@ -8,7 +8,7 @@
 | Question ID | 148 |
 | Slug | `sort-list` |
 | Topics | Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/sort-list/ |
 
@@ -69,6 +69,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [20 — C++](./submissions/002-20.md)
 

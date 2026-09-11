@@ -8,7 +8,7 @@
 | Question ID | 538 |
 | Slug | `convert-bst-to-greater-tree` |
 | Topics | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/convert-bst-to-greater-tree/ |
 
@@ -67,5 +67,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

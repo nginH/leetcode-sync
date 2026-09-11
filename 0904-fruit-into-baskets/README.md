@@ -8,7 +8,7 @@
 | Question ID | 940 |
 | Slug | `fruit-into-baskets` |
 | Topics | Array, Hash Table, Sliding Window |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/fruit-into-baskets/ |
 
@@ -80,5 +80,4 @@ If we had started at the first tree, we would only pick from trees [1,2].
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

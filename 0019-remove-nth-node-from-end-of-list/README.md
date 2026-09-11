@@ -8,7 +8,7 @@
 | Question ID | 19 |
 | Slug | `remove-nth-node-from-end-of-list` |
 | Topics | Linked List, Two Pointers |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
 
@@ -81,5 +81,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

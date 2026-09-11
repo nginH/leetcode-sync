@@ -8,7 +8,7 @@
 | Question ID | 128 |
 | Slug | `longest-consecutive-sequence` |
 | Topics | Array, Hash Table, Union-Find |
-| Total submissions | 10 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/longest-consecutive-sequence/ |
 
@@ -68,14 +68,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [14 — C++](./submissions/002-14.md)
-3. [11 — C++](./submissions/003-11.md)
-4. [15 — C++](./submissions/004-15.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [11 — C++](./submissions/006-11.md)
-7. [11 — C++](./submissions/007-11.md)
-8. [11 — C++](./submissions/008-11.md)
-9. [10 — C++](./submissions/009-10.md)
-10. [11 — C++](./submissions/010-11.md)
 

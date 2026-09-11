@@ -8,7 +8,7 @@
 | Question ID | 4 |
 | Slug | `median-of-two-sorted-arrays` |
 | Topics | Array, Binary Search, Divide and Conquer |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
@@ -74,9 +74,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [15 — C++](./submissions/002-15.md)
-3. [15 — C++](./submissions/003-15.md)
-4. [20 — C++](./submissions/004-20.md)
-5. [10 — C++](./submissions/005-10.md)
 

@@ -8,7 +8,7 @@
 | Question ID | 33 |
 | Slug | `search-in-rotated-sorted-array` |
 | Topics | Array, Binary Search |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/search-in-rotated-sorted-array/ |
 
@@ -71,6 +71,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
 

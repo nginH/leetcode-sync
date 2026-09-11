@@ -8,7 +8,7 @@
 | Question ID | 153 |
 | Slug | `find-minimum-in-rotated-sorted-array` |
 | Topics | Array, Binary Search |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 
@@ -94,9 +94,4 @@ Can you think of an algorithm which has O(logN) search complexity?
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [11 — C++](./submissions/004-11.md)
-5. [11 — C++](./submissions/005-11.md)
 

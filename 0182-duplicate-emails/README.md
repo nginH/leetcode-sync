@@ -8,7 +8,7 @@
 | Question ID | 182 |
 | Slug | `duplicate-emails` |
 | Topics | Database |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/duplicate-emails/ |
 
@@ -70,6 +70,4 @@ Person table:
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — PostgreSQL](./submissions/001-10.md)
-2. [10 — PostgreSQL](./submissions/002-10.md)
 

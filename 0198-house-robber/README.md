@@ -8,7 +8,7 @@
 | Question ID | 198 |
 | Slug | `house-robber` |
 | Topics | Array, Dynamic Programming |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/house-robber/ |
 
@@ -65,9 +65,4 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [14 — C++](./submissions/004-14.md)
-5. [11 — C++](./submissions/005-11.md)
 

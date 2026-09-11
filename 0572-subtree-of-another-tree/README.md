@@ -8,7 +8,7 @@
 | Question ID | 572 |
 | Slug | `subtree-of-another-tree` |
 | Topics | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/subtree-of-another-tree/ |
 
@@ -76,7 +76,4 @@ isIdentical(s,t)= s.val==t.val AND isIdentical(s.left,t.left) AND isIdentical(s.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [11 — C++](./submissions/003-11.md)
 

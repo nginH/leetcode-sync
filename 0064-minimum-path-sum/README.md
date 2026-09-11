@@ -8,7 +8,7 @@
 | Question ID | 64 |
 | Slug | `minimum-path-sum` |
 | Topics | Array, Dynamic Programming, Matrix |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/minimum-path-sum/ |
 
@@ -66,6 +66,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [14 — C++](./submissions/002-14.md)
 

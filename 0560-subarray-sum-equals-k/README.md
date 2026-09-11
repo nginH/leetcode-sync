@@ -8,7 +8,7 @@
 | Question ID | 560 |
 | Slug | `subarray-sum-equals-k` |
 | Topics | Array, Hash Table, Prefix Sum |
-| Total submissions | 4 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/subarray-sum-equals-k/ |
 
@@ -74,8 +74,4 @@ Can we use this property to optimize it.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [10 — C++](./submissions/004-10.md)
 

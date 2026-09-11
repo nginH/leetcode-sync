@@ -8,7 +8,7 @@
 | Question ID | 437 |
 | Slug | `path-sum-iii` |
 | Topics | Tree, Depth-First Search, Binary Tree |
-| Total submissions | 14 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/path-sum-iii/ |
 
@@ -67,18 +67,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [15 — C++](./submissions/002-15.md)
-3. [11 — C++](./submissions/003-11.md)
-4. [10 — C++](./submissions/004-10.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [15 — C++](./submissions/006-15.md)
-7. [11 — C++](./submissions/007-11.md)
-8. [10 — C++](./submissions/008-10.md)
-9. [10 — C++](./submissions/009-10.md)
-10. [10 — C++](./submissions/010-10.md)
-11. [10 — C++](./submissions/011-10.md)
-12. [10 — C++](./submissions/012-10.md)
-13. [11 — C++](./submissions/013-11.md)
-14. [15 — C++](./submissions/014-15.md)
 

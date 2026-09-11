@@ -8,7 +8,7 @@
 | Question ID | 84 |
 | Slug | `largest-rectangle-in-histogram` |
 | Topics | Array, Stack, Monotonic Stack, Range Minimum/Maximum Query |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
@@ -61,9 +61,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [14 — C++](./submissions/004-14.md)
-5. [14 — C++](./submissions/005-14.md)
 

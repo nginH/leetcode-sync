@@ -8,7 +8,7 @@
 | Question ID | 21 |
 | Slug | `merge-two-sorted-lists` |
 | Topics | Linked List, Recursion |
-| Total submissions | 2 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/merge-two-sorted-lists/ |
 
@@ -75,6 +75,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
 

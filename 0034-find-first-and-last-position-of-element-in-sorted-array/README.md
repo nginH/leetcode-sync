@@ -8,7 +8,7 @@
 | Question ID | 34 |
 | Slug | `find-first-and-last-position-of-element-in-sorted-array` |
 | Topics | Array, Binary Search |
-| Total submissions | 3 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
 
@@ -75,7 +75,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
 

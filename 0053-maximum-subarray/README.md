@@ -8,7 +8,7 @@
 | Question ID | 53 |
 | Slug | `maximum-subarray` |
 | Topics | Array, Divide and Conquer, Dynamic Programming |
-| Total submissions | 14 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/maximum-subarray/ |
 
@@ -72,18 +72,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [11 — C++](./submissions/004-11.md)
-5. [10 — C++](./submissions/005-10.md)
-6. [10 — C++](./submissions/006-10.md)
-7. [11 — C++](./submissions/007-11.md)
-8. [11 — C++](./submissions/008-11.md)
-9. [10 — C++](./submissions/009-10.md)
-10. [11 — C++](./submissions/010-11.md)
-11. [11 — C++](./submissions/011-11.md)
-12. [11 — C++](./submissions/012-11.md)
-13. [11 — C++](./submissions/013-11.md)
-14. [11 — C++](./submissions/014-11.md)
 

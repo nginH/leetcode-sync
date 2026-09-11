@@ -8,7 +8,7 @@
 | Question ID | 2212 |
 | Slug | `removing-minimum-and-maximum-from-array` |
 | Topics | Array, Greedy |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/removing-minimum-and-maximum-from-array/ |
 
@@ -94,5 +94,4 @@ We can remove it with 1 deletion.
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

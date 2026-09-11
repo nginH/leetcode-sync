@@ -8,7 +8,7 @@
 | Question ID | 126 |
 | Slug | `word-ladder-ii` |
 | Topics | Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search |
-| Total submissions | 1 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/word-ladder-ii/ |
 
@@ -81,5 +81,4 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
 

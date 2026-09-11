@@ -8,7 +8,7 @@
 | Question ID | 1753 |
 | Slug | `path-with-minimum-effort` |
 | Topics | Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Heap (Priority Queue), Matrix, Dijkstra's Algorithm |
-| Total submissions | 5 |
+| Total submissions | 0 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/path-with-minimum-effort/ |
 
@@ -83,9 +83,4 @@ Example 3:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
-2. [10 — C++](./submissions/002-10.md)
-3. [10 — C++](./submissions/003-10.md)
-4. [11 — C++](./submissions/004-11.md)
-5. [11 — C++](./submissions/005-11.md)
 
