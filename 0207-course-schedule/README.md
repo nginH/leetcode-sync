@@ -61,6 +61,15 @@ To take course 1 you should have finished course 0, and to take course 0 you sho
 [[1,0]]
 ```
 
+## Example Test Cases
+
+```text
+2
+[[1,0]]
+2
+[[1,0],[0,1]]
+```
+
 ## Hints
 
 1. This problem is equivalent to finding if a cycle exists in a directed graph. If a cycle exists, no topological ordering exists and therefore it will be impossible to take all courses.

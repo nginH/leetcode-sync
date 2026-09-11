@@ -51,6 +51,13 @@ Example 2:**
 [0,1,0,3,12]
 ```
 
+## Example Test Cases
+
+```text
+[0,1,0,3,12]
+[0]
+```
+
 ## Hints
 
 1. <b>In-place</b> means we should not be allocating any space for extra array. But we are allowed to modify the existing array. However, as a first step, try coming up with a solution that makes use of additional space. For this problem as well, first apply the idea discussed using an additional array and the in-place solution will pop up eventually.

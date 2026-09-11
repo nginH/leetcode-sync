@@ -57,6 +57,14 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 "A man, a plan, a canal: Panama"
 ```
 
+## Example Test Cases
+
+```text
+"A man, a plan, a canal: Panama"
+"race a car"
+" "
+```
+
 ---
 
 ## Submission History

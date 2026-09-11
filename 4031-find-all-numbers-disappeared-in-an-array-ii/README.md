@@ -86,6 +86,20 @@ Example 3:**
 12
 ```
 
+## Example Test Cases
+
+```text
+[3,9,7]
+1
+12
+[1,1]
+5
+7
+[2,3,5]
+2
+3
+```
+
 ## Hints
 
 1. Mark which integers in <code>[lower, upper]</code> appear in <code>nums</code>, then scan the range and group each maximal consecutive sequence of unmarked integers.

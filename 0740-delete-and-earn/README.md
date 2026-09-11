@@ -59,6 +59,13 @@ You earn a total of 9 points.
 [3,4,2]
 ```
 
+## Example Test Cases
+
+```text
+[3,4,2]
+[2,2,3,3,3,4]
+```
+
 ## Hints
 
 1. If you take a number, you might as well take them all.  Keep track of what the value is of the subset of the input with maximum M when you either take or don't take M.

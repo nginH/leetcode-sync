@@ -75,6 +75,17 @@ The city 0 has 1 neighboring city at a distanceThreshold = 2.
 4
 ```
 
+## Example Test Cases
+
+```text
+4
+[[0,1,3],[1,2,1],[1,3,4],[2,3,1]]
+4
+5
+[[0,1,2],[0,4,8],[1,2,3],[1,4,2],[2,3,1],[3,4,1]]
+2
+```
+
 ## Hints
 
 1. Use Floyd-Warshall's algorithm to compute any-point to any-point distances. (Or can also do Dijkstra from every node due to the weights are non-negative).

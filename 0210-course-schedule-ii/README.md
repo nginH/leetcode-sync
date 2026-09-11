@@ -67,6 +67,17 @@ Example 3:**
 [[1,0]]
 ```
 
+## Example Test Cases
+
+```text
+2
+[[1,0]]
+4
+[[1,0],[2,0],[3,1],[3,2]]
+1
+[]
+```
+
 ## Hints
 
 1. This problem is equivalent to finding the topological order in a directed graph. If a cycle exists, no topological ordering exists and therefore it will be impossible to take all courses.

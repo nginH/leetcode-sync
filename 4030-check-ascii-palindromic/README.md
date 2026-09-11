@@ -70,6 +70,13 @@ Example 2:**
 "ff"
 ```
 
+## Example Test Cases
+
+```text
+"ff"
+"leet"
+```
+
 ## Hints
 
 1. Convert each character to its 8-bit binary representation, concatenate the representations, and check whether the resulting string equals its reverse.

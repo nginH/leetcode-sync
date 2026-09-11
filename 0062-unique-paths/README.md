@@ -53,6 +53,15 @@ Example 2:**
 7
 ```
 
+## Example Test Cases
+
+```text
+3
+7
+3
+2
+```
+
 ---
 
 ## Submission History

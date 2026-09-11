@@ -57,6 +57,15 @@ The best way is to split it into [1,2,3] and [4,5], where the largest sum among 
 2
 ```
 
+## Example Test Cases
+
+```text
+[7,2,5,10,8]
+2
+[1,2,3,4,5]
+2
+```
+
 ---
 
 ## Submission History

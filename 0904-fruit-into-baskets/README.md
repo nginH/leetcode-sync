@@ -66,6 +66,14 @@ If we had started at the first tree, we would only pick from trees [1,2].
 [1,2,1]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,1]
+[0,1,2,2]
+[1,2,3,2,2]
+```
+
 ---
 
 ## Submission History

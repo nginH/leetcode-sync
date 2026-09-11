@@ -68,6 +68,17 @@ Using 4 different numbers in the range [1,9], the smallest sum we can get is 1+2
 7
 ```
 
+## Example Test Cases
+
+```text
+3
+7
+3
+9
+4
+1
+```
+
 ---
 
 ## Submission History

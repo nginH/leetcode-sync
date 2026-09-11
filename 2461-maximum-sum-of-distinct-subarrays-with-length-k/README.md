@@ -65,6 +65,15 @@ We return 0 because no subarrays meet the conditions.
 3
 ```
 
+## Example Test Cases
+
+```text
+[1,5,4,2,9,9,9]
+3
+[4,4,4]
+3
+```
+
 ## Hints
 
 1. Which elements change when moving from the subarray of size k that ends at index i to the subarray of size k that ends at index i + 1?

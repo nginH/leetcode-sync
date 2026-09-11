@@ -72,6 +72,14 @@ We can remove it with 1 deletion.
 [2,10,7,5,4,1,8,6]
 ```
 
+## Example Test Cases
+
+```text
+[2,10,7,5,4,1,8,6]
+[0,-4,19,1,8,-2,-3,5]
+[101]
+```
+
 ## Hints
 
 1. There can only be three scenarios for deletions such that both minimum and maximum elements are removed:

@@ -55,6 +55,14 @@ Example 3:**
 "nlaebolko"
 ```
 
+## Example Test Cases
+
+```text
+"nlaebolko"
+"loonbalxballpoon"
+"leetcode"
+```
+
 ## Hints
 
 1. Count the frequency of letters in the given string.

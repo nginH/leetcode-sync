@@ -74,6 +74,16 @@ Example 5:**
 "()"
 ```
 
+## Example Test Cases
+
+```text
+"()"
+"()[]{}"
+"(]"
+"([])"
+"([)]"
+```
+
 ## Hints
 
 1. Use a stack of characters.

@@ -65,6 +65,20 @@ Example 3:**
 2
 ```
 
+## Example Test Cases
+
+```text
+[[2,1,1],[2,3,1],[3,4,1]]
+4
+2
+[[1,2,1]]
+2
+1
+[[1,2,1]]
+2
+2
+```
+
 ## Hints
 
 1. We visit each node at some time, and if that time is better than the fastest time we've reached this node, we travel along outgoing edges in sorted order.  Alternatively, we could use Dijkstra's algorithm.

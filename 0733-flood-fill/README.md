@@ -81,6 +81,19 @@ The starting pixel is already colored with 0, which is the same as the target co
 2
 ```
 
+## Example Test Cases
+
+```text
+[[1,1,1],[1,1,0],[1,0,1]]
+1
+1
+2
+[[0,0,0],[0,0,0]]
+0
+0
+0
+```
+
 ## Hints
 
 1. Write a recursive function that paints the pixel if it's the correct color, then recurses on neighboring pixels.

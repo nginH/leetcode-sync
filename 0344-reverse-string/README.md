@@ -45,6 +45,13 @@ Example 2:**
 ["h","e","l","l","o"]
 ```
 
+## Example Test Cases
+
+```text
+["h","e","l","l","o"]
+["H","a","n","n","a","h"]
+```
+
 ## Hints
 
 1. The entire logic for reversing a string is based on using the opposite directional two-pointer approach!

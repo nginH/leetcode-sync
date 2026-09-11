@@ -61,6 +61,15 @@ The multiples of `k = 5` are 5, 10, 15, 20... and the smallest multiple missing 
 2
 ```
 
+## Example Test Cases
+
+```text
+[8,2,3,4,6]
+2
+[1,4,7,10,15]
+5
+```
+
 ## Hints
 
 1. Add the values in <code>nums</code> to a hash set

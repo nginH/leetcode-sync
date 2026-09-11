@@ -74,6 +74,19 @@ The tree structure of the employees in the company is shown.
 [0]
 ```
 
+## Example Test Cases
+
+```text
+1
+0
+[-1]
+[0]
+6
+2
+[2,2,-1,2,2,2]
+[0,0,1,0,0,0]
+```
+
 ## Hints
 
 1. The company can be represented as a tree, headID is always the root.

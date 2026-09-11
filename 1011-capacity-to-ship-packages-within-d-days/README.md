@@ -73,6 +73,17 @@ Example 3:**
 5
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,4,5,6,7,8,9,10]
+5
+[3,2,2,4,1,4]
+3
+[1,2,3,1,1]
+4
+```
+
 ## Hints
 
 1. Binary search on the answer.  We need a function possible(capacity) which returns true if and only if we can do the task in D days.

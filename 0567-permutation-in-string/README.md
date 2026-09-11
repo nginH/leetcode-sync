@@ -50,6 +50,15 @@ Example 2:**
 "eidbaooo"
 ```
 
+## Example Test Cases
+
+```text
+"ab"
+"eidbaooo"
+"ab"
+"eidboaoo"
+```
+
 ## Hints
 
 1. Obviously, brute force will result in TLE. Think of something else.

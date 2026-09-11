@@ -63,6 +63,17 @@ row 2: 01
 1
 ```
 
+## Example Test Cases
+
+```text
+1
+1
+2
+1
+2
+2
+```
+
 ## Hints
 
 1. Try to represent the current (N, K) in terms of some (N-1, prevK).  What is prevK ?

@@ -57,6 +57,15 @@ Example 2:**
 [9,15,7,20,3]
 ```
 
+## Example Test Cases
+
+```text
+[9,3,15,20,7]
+[9,15,7,20,3]
+[-1]
+[-1]
+```
+
 ---
 
 ## Submission History

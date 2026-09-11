@@ -69,6 +69,14 @@ Example 3:**
 [[7,null],[13,0],[11,4],[10,2],[1,0]]
 ```
 
+## Example Test Cases
+
+```text
+[[7,null],[13,0],[11,4],[10,2],[1,0]]
+[[1,1],[2,1]]
+[[3,null],[3,0],[3,null]]
+```
+
 ## Hints
 
 1. Just iterate the linked list and create copies of the nodes on the go. Since a node can be referenced from multiple nodes due to the random pointers, ensure you are not making multiple copies of the same node.

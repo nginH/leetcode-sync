@@ -55,6 +55,13 @@ Example 2:**
 [1,8,6,2,5,4,8,3,7]
 ```
 
+## Example Test Cases
+
+```text
+[1,8,6,2,5,4,8,3,7]
+[1,1]
+```
+
 ## Hints
 
 1. If you simulate the problem, it will be O(n^2) which is not efficient.

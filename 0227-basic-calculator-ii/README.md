@@ -61,6 +61,14 @@ Example 3:**
 "3+2*2"
 ```
 
+## Example Test Cases
+
+```text
+"3+2*2"
+" 3/2 "
+" 3+5 / 2 "
+```
+
 ---
 
 ## Submission History

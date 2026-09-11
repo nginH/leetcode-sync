@@ -65,6 +65,14 @@ The right interval for [2,3] is [3,4] since start_2 = 3 is the smallest start th
 [[1,2]]
 ```
 
+## Example Test Cases
+
+```text
+[[1,2]]
+[[3,4],[2,3],[1,2]]
+[[1,4],[2,3],[3,4]]
+```
+
 ---
 
 ## Submission History

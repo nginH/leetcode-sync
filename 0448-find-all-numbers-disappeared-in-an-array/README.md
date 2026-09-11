@@ -51,6 +51,13 @@ Example 2:**
 [4,3,2,7,8,2,3,1]
 ```
 
+## Example Test Cases
+
+```text
+[4,3,2,7,8,2,3,1]
+[1,1]
+```
+
 ## Hints
 
 1. This is a really easy problem if you decide to use additional memory. For those trying to write an initial solution using additional memory, think <b>counters!</b>

@@ -1,2 +1,4 @@
 "anagram"
 "nagaram"
+"rat"
+"car"

@@ -77,6 +77,17 @@ Example 3:**
 "bba"
 ```
 
+## Example Test Cases
+
+```text
+"abc"
+"bba"
+"leet"
+"code"
+"baba"
+"bbaa"
+```
+
 ## Hints
 
 1. Maintain frequency counts of <code>s</code>.

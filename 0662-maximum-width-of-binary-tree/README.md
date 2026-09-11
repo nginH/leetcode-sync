@@ -60,6 +60,14 @@ Example 3:**
 [1,3,2,5,3,null,9]
 ```
 
+## Example Test Cases
+
+```text
+[1,3,2,5,3,null,9]
+[1,3,2,5,null,null,9,6,null,7]
+[1,3,2,5]
+```
+
 ---
 
 ## Submission History

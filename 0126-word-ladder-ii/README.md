@@ -64,6 +64,17 @@ Example 2:**
 ["hot","dot","dog","lot","log","cog"]
 ```
 
+## Example Test Cases
+
+```text
+"hit"
+"cog"
+["hot","dot","dog","lot","log","cog"]
+"hit"
+"cog"
+["hot","dot","dog","lot","log"]
+```
+
 ---
 
 ## Submission History

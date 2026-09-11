@@ -53,6 +53,15 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 2
 ```
 
+## Example Test Cases
+
+```text
+[1,1,1,0,0,0,1,1,1,1,0]
+2
+[0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1]
+3
+```
+
 ## Hints
 
 1. One thing's for sure, we will only flip a zero if it extends an existing window of 1s. Otherwise, there's no point in doing it, right? Think Sliding Window!

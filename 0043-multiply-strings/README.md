@@ -50,6 +50,15 @@ Example 2:**
 "3"
 ```
 
+## Example Test Cases
+
+```text
+"2"
+"3"
+"123"
+"456"
+```
+
 ---
 
 ## Submission History

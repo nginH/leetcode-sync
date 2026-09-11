@@ -52,6 +52,13 @@ Example 2:**
 [4,2,4,5,6]
 ```
 
+## Example Test Cases
+
+```text
+[4,2,4,5,6]
+[5,2,1,2,5,2,1,2,5]
+```
+
 ## Hints
 
 1. The main point here is for the subarray to contain unique elements for each index. Only the first subarrays starting from that index have unique elements.

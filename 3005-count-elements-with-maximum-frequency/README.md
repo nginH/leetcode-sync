@@ -54,6 +54,13 @@ So the number of elements in the array with maximum frequency is 5.
 [1,2,2,3,1,4]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,2,3,1,4]
+[1,2,3,4,5]
+```
+
 ## Hints
 
 1. Find frequencies of all elements of the array.

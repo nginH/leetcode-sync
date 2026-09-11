@@ -77,6 +77,14 @@ Example 3:**
 "III"
 ```
 
+## Example Test Cases
+
+```text
+"III"
+"LVIII"
+"MCMXCIV"
+```
+
 ## Hints
 
 1. Problem is simpler to solve by working the string from back to front and using a map.

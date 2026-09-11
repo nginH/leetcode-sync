@@ -64,6 +64,17 @@ Example 3:**
 5
 ```
 
+## Example Test Cases
+
+```text
+[1,2,4]
+5
+[1,4,8,13]
+5
+[3,9,6]
+2
+```
+
 ## Hints
 
 1. Note that you can try all values in a brute force manner and find the maximum frequency of that value.

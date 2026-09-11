@@ -63,6 +63,17 @@ Example 3:**
 ["leet","code"]
 ```
 
+## Example Test Cases
+
+```text
+"leetcode"
+["leet","code"]
+"applepenapple"
+["apple","pen"]
+"catsandog"
+["cats","dog","sand","and","cat"]
+```
+
 ---
 
 ## Submission History

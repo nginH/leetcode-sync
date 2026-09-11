@@ -60,6 +60,13 @@ Example 2:**
 [[0,0,0],[0,1,0],[0,0,0]]
 ```
 
+## Example Test Cases
+
+```text
+[[0,0,0],[0,1,0],[0,0,0]]
+[[0,1],[0,0]]
+```
+
 ## Hints
 
 1. Use dynamic programming since, from each cell, you can move to the right or down.

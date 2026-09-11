@@ -86,6 +86,13 @@ Example 2:**
 43261596
 ```
 
+## Example Test Cases
+
+```text
+43261596
+2147483644
+```
+
 ---
 
 ## Submission History

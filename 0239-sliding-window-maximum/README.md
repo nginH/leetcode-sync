@@ -60,6 +60,15 @@ Example 2:**
 3
 ```
 
+## Example Test Cases
+
+```text
+[1,3,-1,-3,5,3,6,7]
+3
+[1]
+1
+```
+
 ## Hints
 
 1. How about using a data structure such as deque (double-ended queue)?

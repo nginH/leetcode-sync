@@ -56,6 +56,14 @@ Example 3:**
 121
 ```
 
+## Example Test Cases
+
+```text
+121
+-121
+10
+```
+
 ## Hints
 
 1. Beware of overflow when you reverse the integer.

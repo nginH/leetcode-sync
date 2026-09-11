@@ -47,6 +47,13 @@ Example 2:**
 "babad"
 ```
 
+## Example Test Cases
+
+```text
+"babad"
+"cbbd"
+```
+
 ## Hints
 
 1. How can we reuse a previously computed palindrome to compute a larger palindrome?

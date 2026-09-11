@@ -60,6 +60,17 @@ Example 3:**
 [5,6,4]
 ```
 
+## Example Test Cases
+
+```text
+[7,2,4,3]
+[5,6,4]
+[2,4,3]
+[5,6,4]
+[0]
+[0]
+```
+
 ---
 
 ## Submission History

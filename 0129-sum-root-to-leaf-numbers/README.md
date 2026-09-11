@@ -65,6 +65,13 @@ Therefore, sum = 495 + 491 + 40 = `1026`.
 [1,2,3]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3]
+[4,9,0,5,1]
+```
+
 ---
 
 ## Submission History

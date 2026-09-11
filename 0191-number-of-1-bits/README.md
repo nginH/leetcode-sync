@@ -68,6 +68,14 @@ The input binary string **1111111111111111111111111111101** has a total of thirt
 11
 ```
 
+## Example Test Cases
+
+```text
+11
+128
+2147483645
+```
+
 ---
 
 ## Submission History

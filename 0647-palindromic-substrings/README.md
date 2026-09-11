@@ -52,6 +52,13 @@ Example 2:**
 "abc"
 ```
 
+## Example Test Cases
+
+```text
+"abc"
+"aaa"
+```
+
 ## Hints
 
 1. How can we reuse a previously computed palindrome to compute a larger palindrome?

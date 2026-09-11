@@ -48,6 +48,13 @@ Example 2:**
 "23"
 ```
 
+## Example Test Cases
+
+```text
+"23"
+"2"
+```
+
 ---
 
 ## Submission History

@@ -79,6 +79,17 @@ Example 3:**
 3
 ```
 
+## Example Test Cases
+
+```text
+"100011001"
+3
+"1011"
+2
+"000"
+1
+```
+
 ## Hints
 
 1. Notice that if we consider that index <code>i</code> is the leftmost index of a beautiful substring, it has only one candidate <code>j</code>, such that <code>s[i:j]</code> is beautiful and shortest too.

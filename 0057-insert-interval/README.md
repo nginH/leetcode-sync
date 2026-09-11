@@ -64,6 +64,15 @@ Example 2:**
 [2,5]
 ```
 
+## Example Test Cases
+
+```text
+[[1,3],[6,9]]
+[2,5]
+[[1,2],[3,5],[6,7],[8,10],[12,16]]
+[4,8]
+```
+
 ## Hints
 
 1. Intervals Array is sorted. Can you use Binary Search to find the correct position to insert the new Interval.?

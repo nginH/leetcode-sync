@@ -51,6 +51,14 @@ Example 3:**
 [4,2,7,1,3,6,9]
 ```
 
+## Example Test Cases
+
+```text
+[4,2,7,1,3,6,9]
+[2,1,3]
+[]
+```
+
 ---
 
 ## Submission History

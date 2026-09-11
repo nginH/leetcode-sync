@@ -64,6 +64,17 @@ Example 3:**
 "ABCCED"
 ```
 
+## Example Test Cases
+
+```text
+[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]
+"ABCCED"
+[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]
+"SEE"
+[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]
+"ABCB"
+```
+
 ---
 
 ## Submission History

@@ -60,6 +60,17 @@ Example 3:**
 8
 ```
 
+## Example Test Cases
+
+```text
+[3,6,7,11]
+8
+[30,11,23,4,20]
+5
+[30,11,23,4,20]
+6
+```
+
 ---
 
 ## Submission History

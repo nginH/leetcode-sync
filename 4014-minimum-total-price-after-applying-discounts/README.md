@@ -99,6 +99,17 @@ The total is `0 + 0 + 3 = 3.00000`, which is the minimum possible.
 [50,60]
 ```
 
+## Example Test Cases
+
+```text
+[10,30,21]
+[50,60]
+[100,70]
+[10,40,50]
+[7,3,9]
+[100,100]
+```
+
 ## Hints
 
 1. For an item with price <code>p</code> and a discount <code>d</code>, the amount saved is <code>p * d / 100</code>.

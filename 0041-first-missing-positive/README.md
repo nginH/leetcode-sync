@@ -56,6 +56,14 @@ Example 3:**
 [1,2,0]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,0]
+[3,4,-1,1]
+[7,8,9,11,12]
+```
+
 ## Hints
 
 1. Think about how you would solve the problem in non-constant space.  Can you apply that logic to the existing space?

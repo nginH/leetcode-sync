@@ -71,6 +71,17 @@ There are only two types of tasks, A and B, which need to be separated by 3 inte
 2
 ```
 
+## Example Test Cases
+
+```text
+["A","A","A","B","B","B"]
+2
+["A","C","A","B","D","B"]
+1
+["A","A","A", "B","B","B"]
+3
+```
+
 ## Hints
 
 1. There are many different solutions for this problem, including a greedy algorithm.

@@ -53,6 +53,15 @@ Example 2:**
 "nagaram"
 ```
 
+## Example Test Cases
+
+```text
+"anagram"
+"nagaram"
+"rat"
+"car"
+```
+
 ---
 
 ## Submission History

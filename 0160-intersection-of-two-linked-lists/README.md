@@ -100,6 +100,26 @@ Explanation: The two lists do not intersect, so return null.
 3
 ```
 
+## Example Test Cases
+
+```text
+8
+[4,1,8,4,5]
+[5,6,1,8,4,5]
+2
+3
+2
+[1,9,1,2,4]
+[3,2,4]
+3
+1
+0
+[2,6,4]
+[1,5]
+3
+2
+```
+
 ---
 
 ## Submission History

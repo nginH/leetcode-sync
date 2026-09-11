@@ -63,6 +63,14 @@ Example 3:**
 [[0,1],[1,0]]
 ```
 
+## Example Test Cases
+
+```text
+[[0,1],[1,0]]
+[[0,0,0],[1,1,0],[1,1,0]]
+[[1,0,0],[1,1,0],[1,1,0]]
+```
+
 ## Hints
 
 1. Do a breadth first search to find the shortest path.

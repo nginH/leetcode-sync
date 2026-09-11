@@ -53,6 +53,13 @@ Example 2:**
 2
 ```
 
+## Example Test Cases
+
+```text
+2
+3
+```
+
 ## Hints
 
 1. To reach nth step, what could have been your previous steps? (Think about the step sizes)

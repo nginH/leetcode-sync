@@ -53,6 +53,13 @@ Example 2:**
 4
 ```
 
+## Example Test Cases
+
+```text
+4
+25
+```
+
 ## Hints
 
 1. Make an array F of length 38, and set F[0] = 0, F[1] = F[2] = 1.

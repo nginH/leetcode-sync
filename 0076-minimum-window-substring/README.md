@@ -66,6 +66,17 @@ Since the largest window of s only has one 'a', return empty string.
 "ABC"
 ```
 
+## Example Test Cases
+
+```text
+"ADOBECODEBANC"
+"ABC"
+"a"
+"a"
+"a"
+"aa"
+```
+
 ## Hints
 
 1. Use two pointers to create a window of letters in s, which would have all the characters from t.

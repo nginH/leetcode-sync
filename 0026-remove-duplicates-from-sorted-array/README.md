@@ -70,6 +70,13 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 [1,1,2]
 ```
 
+## Example Test Cases
+
+```text
+[1,1,2]
+[0,0,1,1,1,2,2,3,3,4]
+```
+
 ## Hints
 
 1. In this problem, the key point to focus on is the input array being sorted. As far as duplicate elements are concerned, what is their positioning in the array when the given array is sorted? Look at the image below for the answer. If we know the position of one of the elements, do we also know the positioning of all the duplicate elements?

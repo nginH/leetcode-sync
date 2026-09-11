@@ -50,6 +50,15 @@ Example 2:**
 2
 ```
 
+## Example Test Cases
+
+```text
+[1,1,1]
+2
+[1,2,3]
+3
+```
+
 ## Hints
 
 1. Will Brute force work here? Try to optimize it.

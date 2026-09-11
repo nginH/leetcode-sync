@@ -65,6 +65,13 @@ Only node 4 is a terminal node, and every path starting at node 4 leads to node 
 [[1,2],[2,3],[5],[0],[5],[],[]]
 ```
 
+## Example Test Cases
+
+```text
+[[1,2],[2,3],[5],[0],[5],[],[]]
+[[1,2,3,4],[1,2],[3,4],[0,4],[]]
+```
+
 ---
 
 ## Submission History

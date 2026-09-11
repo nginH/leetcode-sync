@@ -52,6 +52,13 @@ Example 2:**
 [3,0,6,1,5]
 ```
 
+## Example Test Cases
+
+```text
+[3,0,6,1,5]
+[1,3,1]
+```
+
 ## Hints
 
 1. An easy approach is to sort the array first.

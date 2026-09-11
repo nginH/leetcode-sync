@@ -50,6 +50,13 @@ Example 2:**
 [1,2,3,null,null,4,5]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,null,null,4,5]
+[]
+```
+
 ---
 
 ## Submission History

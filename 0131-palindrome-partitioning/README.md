@@ -45,6 +45,13 @@ Example 2:**
 "aab"
 ```
 
+## Example Test Cases
+
+```text
+"aab"
+"a"
+```
+
 ---
 
 ## Submission History

@@ -63,6 +63,14 @@ Example 3:**
 [[1,2,2],[3,8,2],[5,3,5]]
 ```
 
+## Example Test Cases
+
+```text
+[[1,2,2],[3,8,2],[5,3,5]]
+[[1,2,3],[3,8,4],[5,3,5]]
+[[1,2,1,1,1],[1,2,1,2,1],[1,2,1,2,1],[1,2,1,2,1],[1,1,1,2,1]]
+```
+
 ## Hints
 
 1. Consider the grid as a graph, where adjacent cells have an edge with cost of the difference between the cells.

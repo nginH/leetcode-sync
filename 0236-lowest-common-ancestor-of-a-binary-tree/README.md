@@ -63,6 +63,20 @@ Example 3:**
 1
 ```
 
+## Example Test Cases
+
+```text
+[3,5,1,6,2,0,8,null,null,7,4]
+5
+1
+[3,5,1,6,2,0,8,null,null,7,4]
+5
+4
+[1,2]
+1
+2
+```
+
 ---
 
 ## Submission History

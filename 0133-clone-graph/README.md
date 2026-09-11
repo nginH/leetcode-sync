@@ -83,6 +83,14 @@ Example 3:**
 [[2,4],[1,3],[2,4],[1,3]]
 ```
 
+## Example Test Cases
+
+```text
+[[2,4],[1,3],[2,4],[1,3]]
+[[]]
+[]
+```
+
 ---
 
 ## Submission History

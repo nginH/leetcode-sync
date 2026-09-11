@@ -58,6 +58,17 @@ Example 3:**
 8
 ```
 
+## Example Test Cases
+
+```text
+[5,7,7,8,8,10]
+8
+[5,7,7,8,8,10]
+6
+[]
+0
+```
+
 ---
 
 ## Submission History

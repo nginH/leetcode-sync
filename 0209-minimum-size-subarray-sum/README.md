@@ -59,6 +59,17 @@ Example 3:**
 [2,3,1,2,4,3]
 ```
 
+## Example Test Cases
+
+```text
+7
+[2,3,1,2,4,3]
+4
+[1,4,4]
+11
+[1,1,1,1,1,1,1,1]
+```
+
 ---
 
 ## Submission History

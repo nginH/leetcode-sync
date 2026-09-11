@@ -58,6 +58,14 @@ Example 3:**
 [2,2,1]
 ```
 
+## Example Test Cases
+
+```text
+[2,2,1]
+[4,1,2,1,2]
+[1]
+```
+
 ## Hints
 
 1. Think about the XOR (^) operator's property.

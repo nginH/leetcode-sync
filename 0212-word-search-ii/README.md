@@ -61,6 +61,15 @@ Example 2:**
 ["oath","pea","eat","rain"]
 ```
 
+## Example Test Cases
+
+```text
+[["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]]
+["oath","pea","eat","rain"]
+[["a","b"],["c","d"]]
+["abcb"]
+```
+
 ## Hints
 
 1. You would need to optimize your backtracking to pass the larger test. Could you stop backtracking earlier?

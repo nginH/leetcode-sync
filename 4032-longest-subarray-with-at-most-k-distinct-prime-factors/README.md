@@ -95,6 +95,17 @@ Since `3 > 2`, only subarrays of length 1 are valid. Therefore, the answer is 1.
 3
 ```
 
+## Example Test Cases
+
+```text
+[7,6,10,12,11]
+3
+[4,6,9,18]
+4
+[6,10,15]
+2
+```
+
 ## Hints
 
 1. Precompute the distinct prime factors of every value, for example using a smallest-prime-factor sieve.

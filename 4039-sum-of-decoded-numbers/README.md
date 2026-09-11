@@ -108,6 +108,14 @@ Example 3:**
 [231]
 ```
 
+## Example Test Cases
+
+```text
+[231]
+[2522,2101]
+[2301]
+```
+
 ## Hints
 
 1. After removing the final digit <code>width<sub>i</sub></code>, determine the power of 10 that separates the first <code>width<sub>i</sub></code> decimal digits of <code>d<sub>i</sub></code> from the remaining digits.

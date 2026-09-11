@@ -70,6 +70,14 @@ Example 3:**
 [3,4,5,1,2]
 ```
 
+## Example Test Cases
+
+```text
+[3,4,5,1,2]
+[4,5,6,7,0,1,2]
+[11,13,15,17]
+```
+
 ## Hints
 
 1. Array was originally in ascending order. Now that the array is rotated, there would be a point in the array where there is a small deflection from the increasing sequence. eg. The array would be something like [4, 5, 6, 7, 0, 1, 2].

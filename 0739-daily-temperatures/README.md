@@ -49,6 +49,14 @@ Example 3:**
 [73,74,75,71,69,72,76,73]
 ```
 
+## Example Test Cases
+
+```text
+[73,74,75,71,69,72,76,73]
+[30,40,50,60]
+[30,60,90]
+```
+
 ## Hints
 
 1. If the temperature is say, 70 today, then in the future a warmer temperature must be either 71, 72, 73, ..., 99, or 100.  We could remember when all of them occur next.

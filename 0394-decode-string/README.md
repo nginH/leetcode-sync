@@ -61,6 +61,14 @@ Example 3:**
 "3[a]2[bc]"
 ```
 
+## Example Test Cases
+
+```text
+"3[a]2[bc]"
+"3[a2[c]]"
+"2[abc]3[cd]ef"
+```
+
 ---
 
 ## Submission History

@@ -44,6 +44,13 @@ Example 2:**
 [6,0,8,2,1,5]
 ```
 
+## Example Test Cases
+
+```text
+[6,0,8,2,1,5]
+[9,8,1,0,1,9,4,0,4,1]
+```
+
 ---
 
 ## Submission History

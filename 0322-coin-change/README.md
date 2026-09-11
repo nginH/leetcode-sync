@@ -59,6 +59,17 @@ Example 3:**
 11
 ```
 
+## Example Test Cases
+
+```text
+[1,2,5]
+11
+[2]
+3
+[1]
+0
+```
+
 ---
 
 ## Submission History

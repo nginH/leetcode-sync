@@ -51,6 +51,14 @@ Example 3:**
 123
 ```
 
+## Example Test Cases
+
+```text
+123
+-123
+120
+```
+
 ---
 
 ## Submission History

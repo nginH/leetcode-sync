@@ -68,6 +68,17 @@ Example 2:**
 3
 ```
 
+## Example Test Cases
+
+```text
+[1,0,1,2,1,1,7,5]
+[0,1,0,1,0,1,0,1]
+3
+[1]
+[0]
+1
+```
+
 ## Hints
 
 1. Say the store owner uses their power in minute 1 to X and we have some answer A.  If they instead use their power from minute 2 to X+1, we only have to use data from minutes 1, 2, X and X+1 to update our answer A.

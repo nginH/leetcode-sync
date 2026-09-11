@@ -55,6 +55,15 @@ There may exists other ways to achieve this answer too.
 2
 ```
 
+## Example Test Cases
+
+```text
+"ABAB"
+2
+"AABABBA"
+1
+```
+
 ---
 
 ## Submission History

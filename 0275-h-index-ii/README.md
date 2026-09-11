@@ -56,6 +56,13 @@ Example 2:**
 [0,1,3,5,6]
 ```
 
+## Example Test Cases
+
+```text
+[0,1,3,5,6]
+[1,2,100]
+```
+
 ## Hints
 
 1. Expected runtime complexity is in <i>O</i>(log <i>n</i>) and the input is sorted.

@@ -60,6 +60,15 @@ Example 2:**
 2
 ```
 
+## Example Test Cases
+
+```text
+["i","love","leetcode","i","love","coding"]
+2
+["the","day","is","sunny","the","the","the","sunny","is","is"]
+4
+```
+
 ---
 
 ## Submission History

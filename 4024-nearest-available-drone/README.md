@@ -91,6 +91,17 @@ Example 3:**
 [3,4]
 ```
 
+## Example Test Cases
+
+```text
+[[0,0,8],[2,2,9]]
+[3,4]
+[[2,1,5],[4,4,5],[6,6,8]]
+[5,5]
+[[4,4,5]]
+[8,6]
+```
+
 ## Hints
 
 1. <p>For each drone, compute its Manhattan distance to <code>target</code> and check whether it is at most the drone's range.</p>

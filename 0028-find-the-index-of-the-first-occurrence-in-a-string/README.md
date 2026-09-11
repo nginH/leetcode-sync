@@ -50,6 +50,15 @@ Example 2:**
 "sad"
 ```
 
+## Example Test Cases
+
+```text
+"sadbutsad"
+"sad"
+"leetcode"
+"leeto"
+```
+
 ---
 
 ## Submission History

@@ -75,6 +75,23 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 3
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,0,0,0]
+3
+[2,5,6]
+3
+[1]
+1
+[]
+0
+[0]
+0
+[1]
+1
+```
+
 ## Hints
 
 1. You can easily solve this problem if you simply think about two elements at a time rather than two arrays. We know that each of the individual arrays is sorted. What we don't know is how they will intertwine. Can we take a local decision and arrive at an optimal solution?

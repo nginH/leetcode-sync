@@ -67,6 +67,17 @@ Example 3:**
 "a"
 ```
 
+## Example Test Cases
+
+```text
+"aa"
+"a"
+"aa"
+"a*"
+"ab"
+".*"
+```
+
 ---
 
 ## Submission History

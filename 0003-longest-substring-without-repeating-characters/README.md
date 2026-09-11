@@ -55,6 +55,14 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 "abcabcbb"
 ```
 
+## Example Test Cases
+
+```text
+"abcabcbb"
+"bbbbb"
+"pwwkew"
+```
+
 ## Hints
 
 1. There are less than 100 unique characters. We can check all substrings with length at most 100 for example. This is a good enough approximation.

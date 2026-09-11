@@ -64,6 +64,13 @@ Example 2:**
 [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
 ```
 
+## Example Test Cases
+
+```text
+[["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
+[["X"]]
+```
+
 ---
 
 ## Submission History

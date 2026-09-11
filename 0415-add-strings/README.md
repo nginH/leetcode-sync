@@ -56,6 +56,17 @@ Example 3:**
 "123"
 ```
 
+## Example Test Cases
+
+```text
+"11"
+"123"
+"456"
+"77"
+"0"
+"0"
+```
+
 ---
 
 ## Submission History

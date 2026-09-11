@@ -66,6 +66,15 @@ Example 2:**
 [2,5,16]
 ```
 
+## Example Test Cases
+
+```text
+[6,2,13,1,4,9,15,null,null,null,null,null,null,14]
+[2,5,16]
+[4,null,9]
+[3]
+```
+
 ## Hints
 
 1. Try to first convert the tree into a sorted array.

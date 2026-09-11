@@ -72,6 +72,14 @@ Note that the last node is not considered a local maxima because it does not hav
 [3,1]
 ```
 
+## Example Test Cases
+
+```text
+[3,1]
+[5,3,1,2,5,1,2]
+[1,3,2,2,3,2,2,2,7]
+```
+
 ## Hints
 
 1. The maximum distance must be the distance between the first and last critical point.

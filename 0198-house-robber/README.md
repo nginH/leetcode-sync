@@ -52,6 +52,13 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 [1,2,3,1]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,1]
+[2,7,9,3,1]
+```
+
 ---
 
 ## Submission History

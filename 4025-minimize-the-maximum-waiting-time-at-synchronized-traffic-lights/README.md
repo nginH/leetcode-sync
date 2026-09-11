@@ -98,6 +98,20 @@ The penalty of this assignment is 3, which is the minimum possible.
 [2,5,8,11]
 ```
 
+## Example Test Cases
+
+```text
+8
+[2,3]
+[2,5,8,11]
+10
+[3,6,8]
+[4,9,15]
+5
+[2]
+[2,3,4,5,6]
+```
+
 ## Hints
 
 1. <p>Since traffic lights have no capacity restriction, each car can choose its traffic light independently.</p>

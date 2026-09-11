@@ -60,6 +60,17 @@ Example 2:**
 3
 ```
 
+## Example Test Cases
+
+```text
+["10","0001","111001","1","0"]
+5
+3
+["10","0","1"]
+1
+1
+```
+
 ---
 
 ## Submission History

@@ -54,6 +54,15 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 "abc"
 ```
 
+## Example Test Cases
+
+```text
+"cbaebabacd"
+"abc"
+"abab"
+"ab"
+```
+
 ---
 
 ## Submission History

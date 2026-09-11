@@ -64,6 +64,17 @@ Example 3:**
 5
 ```
 
+## Example Test Cases
+
+```text
+[4,2,3,0,3,1,2]
+5
+[4,2,3,0,3,1,2]
+0
+[3,0,2,1,2]
+2
+```
+
 ## Hints
 
 1. Think of BFS to solve the problem.

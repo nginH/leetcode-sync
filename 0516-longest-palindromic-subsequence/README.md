@@ -50,6 +50,13 @@ Example 2:**
 "bbbab"
 ```
 
+## Example Test Cases
+
+```text
+"bbbab"
+"cbbd"
+```
+
 ---
 
 ## Submission History

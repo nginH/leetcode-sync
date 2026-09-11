@@ -52,6 +52,15 @@ Example 2:**
 4
 ```
 
+## Example Test Cases
+
+```text
+1
+4
+3
+1
+```
+
 ---
 
 ## Submission History

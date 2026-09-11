@@ -51,6 +51,13 @@ Example 2:**
 ["flower","flow","flight"]
 ```
 
+## Example Test Cases
+
+```text
+["flower","flow","flight"]
+["dog","racecar","car"]
+```
+
 ---
 
 ## Submission History

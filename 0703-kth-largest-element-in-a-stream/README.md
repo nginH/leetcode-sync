@@ -97,6 +97,15 @@ kthLargest.add(9); // return 8
 [[3,[4,5,8,2]],[3],[5],[10],[9],[4]]
 ```
 
+## Example Test Cases
+
+```text
+["KthLargest","add","add","add","add","add"]
+[[3,[4,5,8,2]],[3],[5],[10],[9],[4]]
+["KthLargest","add","add","add","add"]
+[[4,[7,7,7,7,8,3]],[2],[10],[9],[9]]
+```
+
 ---
 
 ## Submission History

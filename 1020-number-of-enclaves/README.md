@@ -56,6 +56,13 @@ Example 2:**
 [[0,0,0,0],[1,0,1,0],[0,1,1,0],[0,0,0,0]]
 ```
 
+## Example Test Cases
+
+```text
+[[0,0,0,0],[1,0,1,0],[0,1,1,0],[0,0,0,0]]
+[[0,1,1,0],[0,0,1,0],[0,0,1,0],[0,0,0,0]]
+```
+
 ## Hints
 
 1. Can you model this problem as a graph problem?  Create n * m + 1 nodes where n * m nodes represents each cell of the map and one extra node to represent the exterior of the map.

@@ -59,6 +59,17 @@ Example 3:**
 3
 ```
 
+## Example Test Cases
+
+```text
+"abciiidef"
+3
+"aeiou"
+2
+"leetcode"
+3
+```
+
 ## Hints
 
 1. Keep a window of size k and maintain the number of vowels in it.

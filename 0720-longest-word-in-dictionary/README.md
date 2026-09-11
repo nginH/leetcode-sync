@@ -54,6 +54,13 @@ Example 2:**
 ["w","wo","wor","worl","world"]
 ```
 
+## Example Test Cases
+
+```text
+["w","wo","wor","worl","world"]
+["a","banana","app","appl","ap","apply","apple"]
+```
+
 ## Hints
 
 1. For every word in the input list, we can check whether all prefixes of that word are in the input list by using a Set.

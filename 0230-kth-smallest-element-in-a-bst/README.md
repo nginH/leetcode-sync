@@ -53,6 +53,15 @@ Example 2:**
 1
 ```
 
+## Example Test Cases
+
+```text
+[3,1,4,null,2]
+1
+[5,3,6,2,4,null,null,1]
+3
+```
+
 ## Hints
 
 1. Try to utilize the property of a BST.

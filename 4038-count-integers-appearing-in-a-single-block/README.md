@@ -70,6 +70,13 @@ Therefore, there are two special integers.
 [1,2,2,1]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,2,1]
+[3,3,1,2,2,1]
+```
+
 ## Hints
 
 1. For each distinct value <code>x</code>, let <code>l</code> and <code>r</code> be its first and last positions. All occurrences of <code>x</code> form one contiguous block exactly when <code>r - l + 1</code> equals the frequency of <code>x</code>.

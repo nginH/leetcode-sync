@@ -64,6 +64,14 @@ Example 3:**
 ["eat","tea","tan","ate","nat","bat"]
 ```
 
+## Example Test Cases
+
+```text
+["eat","tea","tan","ate","nat","bat"]
+[""]
+["a"]
+```
+
 ---
 
 ## Submission History

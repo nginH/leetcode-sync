@@ -55,6 +55,14 @@ Example 3:**
 [3,2,3]
 ```
 
+## Example Test Cases
+
+```text
+[3,2,3]
+[1]
+[1,2]
+```
+
 ## Hints
 
 1. Think about the possible number of elements that can appear more than ⌊ n/3 ⌋ times in the array.

@@ -46,6 +46,15 @@ Example 2:**
 "ahbgdc"
 ```
 
+## Example Test Cases
+
+```text
+"abc"
+"ahbgdc"
+"axc"
+"ahbgdc"
+```
+
 ---
 
 ## Submission History

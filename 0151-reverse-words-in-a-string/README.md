@@ -57,6 +57,14 @@ Example 3:**
 "the sky is blue"
 ```
 
+## Example Test Cases
+
+```text
+"the sky is blue"
+"  hello world  "
+"a good   example"
+```
+
 ---
 
 ## Submission History

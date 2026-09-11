@@ -87,6 +87,14 @@ Example 3:**
 [3,1,4,3,null,1,5]
 ```
 
+## Example Test Cases
+
+```text
+[3,1,4,3,null,1,5]
+[3,3,null,4,2]
+[1]
+```
+
 ## Hints
 
 1. Use DFS (Depth First Search) to traverse the tree, and constantly keep track of the current path maximum.

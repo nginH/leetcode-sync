@@ -54,6 +54,13 @@ Example 2:**
 [-4,-1,0,3,10]
 ```
 
+## Example Test Cases
+
+```text
+[-4,-1,0,3,10]
+[-7,-3,2,3,11]
+```
+
 ---
 
 ## Submission History

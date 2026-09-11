@@ -70,6 +70,15 @@ Therefore, you can't travel around the circuit once no matter where you start.
 [3,4,5,1,2]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,4,5]
+[3,4,5,1,2]
+[2,3,4]
+[3,4,3]
+```
+
 ---
 
 ## Submission History

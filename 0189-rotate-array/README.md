@@ -64,6 +64,15 @@ rotate 2 steps to the right: [3,99,-1,-100]
 3
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,4,5,6,7]
+3
+[-1,-100,3,99]
+2
+```
+
 ## Hints
 
 1. The easiest solution would use additional memory and that is perfectly fine.

@@ -8,7 +8,7 @@
 | Question ID | 684 |
 | Slug | `redundant-connection` |
 | Topics | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
-| Total submissions | 1 |
+| Total submissions | 3 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/redundant-connection/ |
 
@@ -60,6 +60,13 @@ Example 2:**
 [[1,2],[1,3],[2,3]]
 ```
 
+## Example Test Cases
+
+```text
+[[1,2],[1,3],[2,3]]
+[[1,2],[2,3],[3,4],[1,4],[1,5]]
+```
+
 ---
 
 ## Submission History
@@ -67,4 +74,6 @@ Example 2:**
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
 1. [10 — C++](./submissions/001-10.md)
+2. [10 — C++](./submissions/002-10.md)
+3. [10 — C++](./submissions/003-10.md)
 

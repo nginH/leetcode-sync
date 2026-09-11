@@ -57,6 +57,13 @@ Example 2:**
 2
 ```
 
+## Example Test Cases
+
+```text
+2
+5
+```
+
 ## Hints
 
 1. You should make use of what you have produced already.

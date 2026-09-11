@@ -66,6 +66,15 @@ Example 4:**
 [5,10,-5]
 ```
 
+## Example Test Cases
+
+```text
+[5,10,-5]
+[8,-8]
+[10,2,-5]
+[3,5,-6,2,-1,4]
+```
+
 ## Hints
 
 1. Say a row of asteroids is stable.  What happens when a new asteroid is added on the right?

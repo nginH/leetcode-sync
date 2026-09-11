@@ -92,6 +92,14 @@ Example 3:**
 "12"
 ```
 
+## Example Test Cases
+
+```text
+"12"
+"226"
+"06"
+```
+
 ---
 
 ## Submission History

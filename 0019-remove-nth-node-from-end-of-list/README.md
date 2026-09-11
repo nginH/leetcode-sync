@@ -60,6 +60,17 @@ Example 3:**
 2
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,4,5]
+2
+[1]
+1
+[1,2]
+1
+```
+
 ## Hints
 
 1. Maintain two pointers and update one with a delay of n steps.

@@ -67,6 +67,14 @@ Example 3:**
 "aeiouu"
 ```
 
+## Example Test Cases
+
+```text
+"aeiouu"
+"unicornarihan"
+"cuaieuouac"
+```
+
 ## Hints
 
 1. While generating substrings starting at any index, do you need to continue generating larger substrings if you encounter a consonant?

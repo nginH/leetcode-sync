@@ -55,6 +55,13 @@ Example 2:**
 [1,2,3,4]
 ```
 
+## Example Test Cases
+
+```text
+[1,2,3,4]
+[-1,1,0,-3,3]
+```
+
 ## Hints
 
 1. Think how you can efficiently utilize prefix and suffix products to calculate the product of all elements except self for each index. Can you pre-compute the prefix and suffix products in linear time to avoid redundant calculations?
