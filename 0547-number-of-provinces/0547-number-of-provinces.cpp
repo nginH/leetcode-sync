@@ -12,7 +12,7 @@ class Solution {
         vis[b] = 1;
 
         for (int i = 0; i < isConnected.size(); i++) {
-            if (isConnected[b][i] == 1) {
+            if (isConnected[b][i] == 1 && vis[i]!=1) {
                 dfs(isConnected, i, vis);
             }
         }
