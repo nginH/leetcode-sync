@@ -73,7 +73,7 @@ Example 2:**
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/001-10.md)
+1. 10 — C++ (not downloaded)
 2. [10 — C++](./submissions/002-10.md)
 3. [10 — C++](./submissions/003-10.md)
 
