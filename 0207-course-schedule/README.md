@@ -8,7 +8,7 @@
 | Question ID | 207 |
 | Slug | `course-schedule` |
 | Topics | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph |
-| Total submissions | 10 |
+| Total submissions | 12 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/course-schedule/ |
 
@@ -82,14 +82,16 @@ To take course 1 you should have finished course 0, and to take course 0 you sho
 
 All actual submitted solutions are stored separately in the `submissions/` directory.
 
-1. [10 — C++](./submissions/submission-2139988000.md)
-2. [11 — C++](./submissions/002-11.md)
-3. [11 — C++](./submissions/003-11.md)
-4. [10 — C++](./submissions/submission-2139986591.md)
-5. [10 — C++](./submissions/001-10.md)
-6. [10 — C++](./submissions/002-10.md)
-7. [10 — C++](./submissions/003-10.md)
-8. [10 — C++](./submissions/004-10.md)
-9. [11 — C++](./submissions/005-11.md)
-10. [10 — C++](./submissions/006-10.md)
+1. [10 — C++](./submissions/submission-2142584789.md)
+2. [11 — C++](./submissions/submission-2142582521.md)
+3. [10 — C++](./submissions/submission-2139988000.md)
+4. [11 — C++](./submissions/002-11.md)
+5. [11 — C++](./submissions/003-11.md)
+6. [10 — C++](./submissions/submission-2139986591.md)
+7. [10 — C++](./submissions/001-10.md)
+8. [10 — C++](./submissions/002-10.md)
+9. [10 — C++](./submissions/003-10.md)
+10. [10 — C++](./submissions/004-10.md)
+11. [11 — C++](./submissions/005-11.md)
+12. [10 — C++](./submissions/006-10.md)
 
