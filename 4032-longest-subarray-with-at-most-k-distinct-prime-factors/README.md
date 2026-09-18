@@ -7,7 +7,7 @@
 | Difficulty | Medium |
 | Question ID | 4370 |
 | Slug | `longest-subarray-with-at-most-k-distinct-prime-factors` |
-| Topics | None |
+| Topics | Array, Hash Table, Math, Sliding Window, Number Theory |
 | Total submissions | 2 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/ |

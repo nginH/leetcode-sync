@@ -7,7 +7,7 @@
 | Difficulty | Medium |
 | Question ID | 4401 |
 | Slug | `sum-of-decoded-numbers` |
-| Topics | None |
+| Topics | Array, Math, Simulation |
 | Total submissions | 4 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/sum-of-decoded-numbers/ |

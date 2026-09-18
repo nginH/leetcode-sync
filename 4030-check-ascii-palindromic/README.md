@@ -7,7 +7,7 @@
 | Difficulty | Easy |
 | Question ID | 4381 |
 | Slug | `check-ascii-palindromic` |
-| Topics | None |
+| Topics | Two Pointers, String, Bit Manipulation |
 | Total submissions | 1 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/check-ascii-palindromic/ |

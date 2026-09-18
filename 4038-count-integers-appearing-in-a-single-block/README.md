@@ -7,7 +7,7 @@
 | Difficulty | Easy |
 | Question ID | 4410 |
 | Slug | `count-integers-appearing-in-a-single-block` |
-| Topics | None |
+| Topics | Array, Hash Table, Counting |
 | Total submissions | 8 |
 | Accepted submissions | 0 |
 | LeetCode | https://leetcode.com/problems/count-integers-appearing-in-a-single-block/ |
